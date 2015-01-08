@@ -10,7 +10,7 @@
   box-sizing: border-box;
 }
 
-.transparent-header #header {
+#header {
   background-color: #FFF;
   padding: 0;
 }
