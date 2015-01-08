@@ -43,3 +43,28 @@ color: #FBB03B!important;
 margin: 0!important;
 padding: 1.1em!important;
 }
+
+#sidecarNav {
+  background-color: #FFF!important;
+}
+
+#headerNav nav a, #sidecarNav nav a, #headerNav nav a:visited, #sidecarNav nav a:visited, #headerNav nav label, #sidecarNav nav label {
+font-family: sans-serif!important;
+font-size: 1em!important;
+text-transform: uppercase;
+text-decoration: none;
+letter-spacing: 1px;
+font-weight: 600;
+font-style: normal;
+line-height: 1em;
+color: #646469!important;
+}
+
+#headerNav nav a:hover,
+#sidecarNav nav a:hover,
+#headerNav nav a:visited:hover,
+#sidecarNav nav a:visited:hover,
+#headerNav nav label:hover,
+#sidecarNav nav label:hover {
+  color: #FBB03B!important;
+}
