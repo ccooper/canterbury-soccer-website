@@ -9,3 +9,13 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+.transparent-header #header {
+  background-color: #FFF;
+  padding: 0;
+}
+
+.flex-logo {
+  width: 100%;
+  display: block;
+}
