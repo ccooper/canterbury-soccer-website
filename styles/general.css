@@ -13,6 +13,7 @@
 #header {
   background-color: #FFF!important;
   padding: 0!important;
+  position: fixed!important;
 }
 
 .flex-logo {
@@ -27,4 +28,11 @@ padding: 0!important;
 
 .force-mobile-nav .mobile-nav-toggle-label .top-bar, .force-mobile-nav .mobile-nav-toggle-label .middle-bar, .force-mobile-nav .mobile-nav-toggle-label .bottom-bar {
 background-color: #FBB03B!important;
+}
+
+h1 {
+font-family: sans-serif;
+text-transform: uppercase;
+font-size: 1em;
+color: #FBB03B;
 }
