@@ -69,6 +69,10 @@ color: #646469!important;
   color: #FBB03B!important;
 }
 
+#headerNav nav .active>a, #sidecarNav nav .active>a {
+  color: #FBB03B!important;
+}
+
 .nav-button-corner-style-pill.enable-nav-button #headerNav nav>div:not(.folder):last-child a, .nav-button-corner-style-pill.enable-nav-button #sidecarNav nav>div:not(.folder):last-child a {
  -webkit-border-radius: 0!important;
  border-radius: 0px!important;
@@ -86,7 +90,7 @@ color: #fff;
 display: inline-block;
 margin: 0!important;
 line-height: 1;
-padding: 0!important;
+padding: .75em 0!important;
 }
 
 .enable-nav-button #headerNav nav>div:not(.folder):last-child a, .enable-nav-button #sidecarNav nav>div:not(.folder):last-child a {
