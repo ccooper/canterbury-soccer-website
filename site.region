@@ -29,6 +29,7 @@
 
           <!-- comment the linebreak between these two elements because science-->
           <div class="unit unit-s-2-3 unit-m-2-3 unit-l-2-3">
+            <h1>Canterbury Soccer Club</h1>
             <label for="mobileNavToggle" class="mobile-nav-toggle-label"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label><label for="mobileNavToggle" class="mobile-nav-toggle-label fixed-nav-toggle-label"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label>
             <!-- comment the linebreak between these two elements because science-->
 
