@@ -24,3 +24,7 @@
 .header-inner {
 padding: 0!important;
 }
+
+.force-mobile-nav .mobile-nav-toggle-label .top-bar, .force-mobile-nav .mobile-nav-toggle-label .middle-bar, .force-mobile-nav .mobile-nav-toggle-label .bottom-bar {
+background-color: #FBB03B!important;
+}
