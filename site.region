@@ -24,8 +24,12 @@
           <div class="unit unit-s-1 unit-m-1 unit-l-1-">
         <div class="header-inner">
           <div class="unit unit-s-1-3 unit-m-1-3 unit-l-1-3">
+            <div class="unit unit-s-1-3 unit-m-1-3 unit-l-1-3">
               <img src="http://canterburysoccerclub.com/assets/logo.png" class="flex-logo">
+            </div>
+            <div class="unit unit-s-2-3 unit-m-2-3 unit-l-2-3">
               <h1>Canterbury Soccer Club</h1>
+            </div>
           </div>
 
           <!-- comment the linebreak between these two elements because science-->
