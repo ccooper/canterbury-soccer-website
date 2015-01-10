@@ -271,37 +271,37 @@
           <a href="http://www.canterburysoccerclub.com/schedule/">
             <span>Schedule</span>
           </a>
-        </div>・
+        </div>	<p class="dot">•</p>
         <div class="external">
           <a href="http://www.canterburysoccerclub.com/kids-corner/">
-            <span>Kid's Corner</span>
+            <span>Kid's Corner</span> <p class="dot">•</p>
           </a>
         </div>
         <div class="external">
           <a href="http://canterburysoccerclub.com/coachs-corner">
-            <span>Coach's Corner</span>
+            <span>Coach's Corner</span> <p class="dot">•</p>
           </a>
         </div>
        
         <div class="external">
           <a href="http://www.canterburysoccerclub.com/parents-corner/">
-            <span>Parent's Corner</span>
+            <span>Parent's Corner</span> <p class="dot">•</p>
           </a>
         </div>
 
         <div class="external">
           <a href="http://www.canterburysoccerclub.com/join-us/">
-            <span>Join Us</span>
+            <span>Join Us</span> <p class="dot">•</p>
           </a>
         </div>
         <div class="external">
           <a href="http://www.canterburysoccerclub.com/events/">
-            <span>Events</span>
+            <span>Events</span> <p class="dot">•</p>
           </a>
         </div>
         <div class="external">
           <a href="http://www.canterburysoccerclub.com/map/">
-            <span>Map</span>
+            <span>Map</span> 
           </a>
         </div>
   </nav>
