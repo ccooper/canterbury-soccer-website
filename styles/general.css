@@ -121,6 +121,10 @@ padding: .5em 0!important;
 padding: .5em 0!important;
 }
 
+.enable-nav-button #headerNav nav>div:not(.folder):last-child a, .enable-nav-button #sidecarNav nav>div:not(.folder):last-child a {
+  padding: .76em 0!important;
+}
+
 .enable-nav-button #sidecarNav nav>div:not(.folder):last-child a {
   font-weight: 400!important;
 }
