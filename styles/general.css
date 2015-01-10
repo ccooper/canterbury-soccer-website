@@ -18,6 +18,10 @@
   display: none;
 }
 
+.h1-visibility {
+  display: none!important;
+}
+
 .flex-logo {
   width: 100%;
   display: block;
