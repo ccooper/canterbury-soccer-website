@@ -134,6 +134,7 @@ padding: .5em 0!important;
 
 #sidecarNav {
 width: 80%!important;
+z-index: 1;
 }
 
 #sidecarNav nav {
