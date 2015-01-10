@@ -163,7 +163,7 @@ transform: translate3d(-140px,0,0)!important;
 h1 {
 text-transform: uppercase!important;
 font-size: 1.5em !important;
-font-weight: bold;
+font-weight: bold !important;
 color: #14aaff !important;
 margin: 0 !important;
 padding: 0.8em 0.5em !important;
