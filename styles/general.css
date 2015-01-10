@@ -169,8 +169,8 @@ padding: 0.8em 0.5em !important;
 line-height: initial !important;
 }
 
-.sqs-block-content h2{
-  color: #3AC0DF;
+.sqs-block-content > h2{
+  color: #3AC0DF !important;
 }
 
 #footer h3 {
