@@ -172,10 +172,10 @@ line-height: initial !important;
   color: #3AC0DF !important;
   font-weight:600 !important;
   padding-bottom: 0;
-  margin: 10px auto 3px;
+  margin: 0 auto 3px;
 }
 .sqs-block-content > p{
-  margin:5px auto 10px;
+  margin:0 auto 10px;
 }
 
 #footer h3 {
