@@ -241,11 +241,11 @@ padding: 8.1% 0;
   #mobileNavToggle:checked~#siteWrapper {
 position: fixed;
 height: 100%;
--webkit-transform: translate3d(-192px,0,0) !important;
--moz-transform: translate3d(-192px,0,0) !important;
--ms-transform: translate3d(-192px,0,0) !important;
--o-transform: translate3d(-192px,0,0) !important;
-transform: translate3d(-216px,0,0) !important;
+-webkit-transform: translate3d(-215px,0,0) !important;
+-moz-transform: translate3d(-215px,0,0) !important;
+-ms-transform: translate3d(-215px,0,0) !important;
+-o-transform: translate3d(-215px,0,0) !important;
+transform: translate3d(-215px,0,0) !important;
 }
 
 #mobileNavToggle:checked~.body-overlay {
@@ -256,11 +256,11 @@ left: 0;
 right: 0;
 z-index: 9999;
 cursor: e-resize;
--webkit-transform: translatex(-260px) translatez(0);
--moz-transform: translatex(-260px) translatez(0);
--ms-transform: translatex(-260px) translatez(0);
--o-transform: translatex(-260px) translatez(0);
-transform: translatex(-216px) translatez(0);
+-webkit-transform: translatex(-215px) translatez(0);
+-moz-transform: translatex(-215px) translatez(0);
+-ms-transform: translatex(-215px) translatez(0);
+-o-transform: translatex(-215px) translatez(0);
+transform: translatex(-215px) translatez(0);
 }
 }
 
