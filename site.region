@@ -41,7 +41,6 @@
 
               <img src="http://canterburysoccerclub.com/assets/facebook.png" class="flex-social">
 
-          <div class="unit unit-s-1-9-5 unit-m-1-9-5"
             <label for="mobileNavToggle" class="mobile-nav-toggle-label"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label><label for="mobileNavToggle" class="mobile-nav-toggle-label fixed-nav-toggle-label"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label>
           </div>
         </div>
