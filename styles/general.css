@@ -28,8 +28,13 @@
   float: left;
 }
 
-.right {
-  float: right;
+.social-icons {
+  text-align: right;
+}
+
+.flex-social {
+  width: 100%;
+  display: block;
 }
 
 #header {
