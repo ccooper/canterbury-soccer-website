@@ -189,4 +189,9 @@ height: 100%;
 -o-transform: translate3d(-192px,0,0)!important;
 transform: translate3d(-192px,0,0)!important;
 }
+
+.enable-nav-button #headerNav nav>div:not(.folder):last-child a, .enable-nav-button #sidecarNav nav>div:not(.folder):last-child a {
+margin: 0;
+padding: .76em 0em !important;
+}
 }
