@@ -37,11 +37,11 @@
 
           <!-- comment the linebreak between these two elements because science-->
           <div class="unit unit-s-2-3 unit-m-2-3 unit-l-2-3">
-            <div class="unit unit-s-1-3 unit-m-1-3 unit-l-1-3">
+            <div class="unit unit-s-1-5 unit-m-1-5 unit-l-1-5">
               <img src="http://canterburysoccerclub.com/assets/twitter.png" class="flex-social">
             </div>
 
-            <div class="unit unit-s-1-3 unit-m-1-3 unit-l-1-3">
+            <div class="unit unit-s-1-5 unit-m-1-5 unit-l-1-5">
               <img src="http://canterburysoccerclub.com/assets/facebook.png" class="flex-social">
             </div>
 
