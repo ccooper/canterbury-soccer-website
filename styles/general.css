@@ -202,7 +202,6 @@ font-size: 10.5px;
 
 .force-mobile-nav #secondaryNavWrapper.nav-wrapper nav>div>a:hover {
   color: #FBB03B;
-  transition: color 0.55s ease 0;
 }
 
 /* 213px */
