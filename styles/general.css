@@ -162,8 +162,8 @@ transform: translate3d(-140px,0,0)!important;
 /* H1, H2, etc */
 h1 {
 text-transform: uppercase!important;
-font-size: 1.5em !important;
-color: #14aaff !important;
+font-size: 0.65em !important;
+color: #fbb03b !important;
 margin: 0 !important;
 padding: 0.8em 0.5em !important;
 line-height: initial!important;
@@ -199,6 +199,7 @@ margin: 0;
 display: inline-block;
 font-size: 10.5px;
 }
+
 .force-mobile-nav #secondaryNavWrapper.nav-wrapper nav>div>a {
   transition: color 0.55s ease 0;
 }
