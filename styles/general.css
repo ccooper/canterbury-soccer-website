@@ -171,6 +171,8 @@ line-height: initial !important;
 
 .sqs-block-content > h2{
   color: #3AC0DF !important;
+  padding-bottom: 0;
+  margin: 10px auto 3px;
 }
 
 #footer h3 {
