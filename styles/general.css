@@ -62,6 +62,14 @@ position: relative;
 right: 10px!important;
 }
 
+#sidecarNav {
+width: 80%!important;
+}
+
+#sidecarNav nav {
+padding: 1.5em!important;
+}
+
 h1 {
 font-family: sans-serif!important;
 text-transform: uppercase!important;
@@ -118,8 +126,17 @@ display: inline-block;
 margin: 0!important;
 line-height: 1;
 padding: .5em 0!important;
+
 }
 
 .enable-nav-button #headerNav nav>div:not(.folder):last-child a, .enable-nav-button #sidecarNav nav>div:not(.folder):last-child a {
 padding: .5em 0!important;
+}
+
+.enable-nav-button #sidecarNav nav>div:not(.folder):last-child a {
+  font-weight: 400!important;
+}
+
+#headerNav nav a, #sidecarNav nav a, #headerNav nav a:visited, #sidecarNav nav a:visited, #headerNav nav label, #sidecarNav nav label {
+font-weight: 400!important;
 }
