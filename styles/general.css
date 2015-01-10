@@ -42,7 +42,7 @@
   background-color: #FFF!important;
   padding: 0!important;
   position: fixed!important;
-  height: 10%;
+  height: 10%!important;
 }
 
 .header-inner {
@@ -67,7 +67,7 @@ width: 80%!important;
 }
 
 #sidecarNav nav {
-padding: 1.5em!important;
+padding: 1em!important;
 }
 
 h1 {
@@ -139,4 +139,18 @@ padding: .5em 0!important;
 
 #headerNav nav a, #sidecarNav nav a, #headerNav nav a:visited, #sidecarNav nav a:visited, #headerNav nav label, #sidecarNav nav label {
 font-weight: 400!important;
+}
+
+.force-mobile-nav #mobileNavToggle:checked~#siteWrapper {
+position: fixed;
+-webkit-transform: translatex(-140px)!important;
+-webkit-transform: translate3d(-140px,0,0)!important;
+-moz-transform: translatex(-140px) translatez(0)!important;
+-moz-transform: translate3d(-2140x,0,0)!important;
+-ms-transform: translatex(-140px) translatez(0)!important;
+-ms-transform: translate3d(-140px,0,0)!important;
+-o-transform: translatex(-140px) translatez(0)!important;
+-o-transform: translate3d(-140px,0,0)!important;
+transform: translatex(-140px) translatez(0)!important;
+transform: translate3d(-140px,0,0)!important;
 }
