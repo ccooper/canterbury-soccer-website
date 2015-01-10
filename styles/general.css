@@ -220,6 +220,7 @@ width: 60% !important;
 }
 }
 
+/* 360 px */
 @media only screen and (min-width: 22em) {
   h1 {
     font-size: .75em !important;
@@ -231,6 +232,7 @@ width: 54% !important;
 
 .social-icons {
 text-align: right;
-display: inline-block!important;
+display: block !important;
+padding: 8.1% 0;
 }
 }
