@@ -180,17 +180,13 @@ transform: translate3d(-170px,0,0)!important;
 
 /* 240px */
 @media only screen and (min-width: 15em) {
-  .force-mobile-nav #mobileNavToggle:checked~#siteWrapper {
+#mobileNavToggle:checked~#siteWrapper {
 position: fixed;
--webkit-transform: translatex(-192px)!important;
--webkit-transform: translate3d(-192px,0,0)!important;
--moz-transform: translatex(-192px) translatez(0)!important;
--moz-transform: translate3d(-192x,0,0)!important;
--ms-transform: translatex(-192px) translatez(0)!important;
--ms-transform: translate3d(-192px,0,0)!important;
--o-transform: translatex(-192px) translatez(0)!important;
--o-transform: translate3d(-192px,0,0)!important;
-transform: translatex(-192px) translatez(0)!important;
-transform: translate3d(-192px,0,0)!important;
+height: 100%;
+-webkit-transform: translate3d(-192px,0,0);
+-moz-transform: translate3d(-192px,0,0);
+-ms-transform: translate3d(-192px,0,0);
+-o-transform: translate3d(-192px,0,0);
+transform: translate3d(-192px,0,0);
 }
 }
