@@ -55,6 +55,10 @@ background-color: #FBB03B!important;
 background-color: #FBB03B!important;
 }
 
+.force-mobile-nav .mobile-nav-toggle-label {
+position: relative;
+}
+
 h1 {
 font-family: sans-serif!important;
 text-transform: uppercase!important;
