@@ -88,7 +88,7 @@ color: #646469!important;
 #headerNav nav a, #sidecarNav nav a, #headerNav nav a:visited, #sidecarNav nav a:visited, #headerNav nav label, #sidecarNav nav label {
 font-weight: 400!important;
 letter-spacing: 0!important;
-transition: all 0.55s ease 0;
+transition: color 0.55s ease 0;
 }
 
 .mobile-nav-toggle-label .top-bar, .mobile-nav-toggle-label .middle-bar, .mobile-nav-toggle-label .bottom-bar {
@@ -224,4 +224,8 @@ width: 60% !important;
   h1 {
     font-size: .75em !important;
   }
+
+  #sidecarNav {
+width: 54% !important;
+}
 }
