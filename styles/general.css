@@ -183,10 +183,10 @@ transform: translate3d(-170px,0,0)!important;
 #mobileNavToggle:checked~#siteWrapper {
 position: fixed;
 height: 100%;
--webkit-transform: translate3d(-192px,0,0);
--moz-transform: translate3d(-192px,0,0);
--ms-transform: translate3d(-192px,0,0);
--o-transform: translate3d(-192px,0,0);
-transform: translate3d(-192px,0,0);
+-webkit-transform: translate3d(-192px,0,0)!important;
+-moz-transform: translate3d(-192px,0,0)!important;
+-ms-transform: translate3d(-192px,0,0)!important;
+-o-transform: translate3d(-192px,0,0)!important;
+transform: translate3d(-192px,0,0)!important;
 }
 }
