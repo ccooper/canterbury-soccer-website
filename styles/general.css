@@ -228,4 +228,9 @@ width: 60% !important;
   #sidecarNav {
 width: 54% !important;
 }
+
+.social-icons {
+text-align: right;
+display: inline-block!important;
+}
 }
