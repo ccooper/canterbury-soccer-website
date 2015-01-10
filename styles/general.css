@@ -161,6 +161,7 @@ transform: translate3d(-140px,0,0)!important;
 
 /* H1, H2, etc */
 h1 {
+font-weight: bold;
 text-transform: uppercase!important;
 font-size: 1.5em !important;
 color: #14aaff !important;
