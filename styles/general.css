@@ -161,7 +161,6 @@ transform: translate3d(-140px,0,0)!important;
 
 /* H1, H2, etc */
 h1 {
-color: #14aaff;
 text-transform: uppercase!important;
 font-size: 0.65em !important;
 color: #fbb03b !important;
@@ -173,9 +172,10 @@ line-height: initial!important;
 h3 {
   font-weight: 600!important;
   text-align: center;
+  color: #FFF!important;
 }
 
-/* FOOTER */
+/* TWITTER */
 .html-block a:not(.sqs-block-button-element), .markdown-block a:not(.sqs-block-button-element), .entry-more-link a:not(.sqs-block-button-element), .foursquare-block a:not(.sqs-block-button-element), .rss-block a:not(.sqs-block-button-element), .layout-caption-below .image-caption a:not(.sqs-block-button-element), .summary-excerpt a:not(.sqs-block-button-element), .album-description a:not(.sqs-block-button-element), .product-excerpt a:not(.sqs-block-button-element), .product-description a:not(.sqs-block-button-element), .eventlist-excerpt a:not(.sqs-block-button-element), .html-block a:not(.sqs-block-button-element):visited, .markdown-block a:not(.sqs-block-button-element):visited, .entry-more-link a:not(.sqs-block-button-element):visited, .twitter-block a:not(.sqs-block-button-element):visited, .foursquare-block a:not(.sqs-block-button-element):visited, .rss-block a:not(.sqs-block-button-element):visited, .layout-caption-below .image-caption a:not(.sqs-block-button-element):visited, .summary-excerpt a:not(.sqs-block-button-element):visited, .album-description a:not(.sqs-block-button-element):visited, .product-excerpt a:not(.sqs-block-button-element):visited, .product-description a:not(.sqs-block-button-element):visited, .eventlist-excerpt a:not(.sqs-block-button-element):visited {
 color: #3AC0DF!important;
 text-decoration: none;
@@ -193,6 +193,12 @@ color: black;
 padding: 0 1em!important;
 }
 
+/* FOOTER */
+.dot {
+margin: 0;
+display: inline-block;
+font-size: 10.5px;
+}
 
 /* 213px */
 @media only screen and (min-width: 13em) {
