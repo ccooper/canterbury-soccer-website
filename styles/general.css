@@ -168,6 +168,7 @@ font-size: 0.65em !important;
 color: #fbb03b !important;
 margin: 0 !important;
 padding: 0.8em 0.5em !important;
+line-height: initial!important;
 }
 
 /* 213px */
@@ -217,4 +218,10 @@ padding: .76em 0em !important;
   #sidecarNav {
 width: 60% !important;
 }
+}
+
+@media only screen and (min-width: 22em) {
+  h1 {
+    font-size: .75em !important;
+  }
 }
