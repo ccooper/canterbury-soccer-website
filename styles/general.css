@@ -160,11 +160,11 @@ transform: translate3d(-140px,0,0)!important;
 }
 
 /* H1, H2, etc */
-h1 {
+#header h1 {
 text-transform: uppercase!important;
 font-size: 0.65em !important;
 font-weight:600 !important;
-color: #14aaff !important;
+color: #fbb03b!important;
 margin: 0 !important;
 padding: 0.8em 0.5em !important;
 line-height: initial !important;
