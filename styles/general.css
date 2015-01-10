@@ -48,6 +48,12 @@
   background-color: #FFF!important;
   padding: 0!important;
   position: fixed!important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+-webkit-transition: height 0.3s;
+-moz-transition: height 0.3s;
+-ms-transition: height 0.3s;
+-o-transition: height 0.3s;
+transition: height 0.3s;
 }
 
 .header-inner {
