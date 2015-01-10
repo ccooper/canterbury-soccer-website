@@ -29,15 +29,13 @@
             </div>
             <div class="unit unit-s-3-4 unit-m-3-4 unit-l-3-4">
               <h1>Canterbury Soccer Club</h1>
+              <div id="headerNav"><squarespace:navigation navigationId="mainNav" template="navigation" /></div>
             </div>
           </div>
 
           <!-- comment the linebreak between these two elements because science-->
           <div class="unit unit-s-2-3 unit-m-2-3 unit-l-2-3">
             <label for="mobileNavToggle" class="mobile-nav-toggle-label"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label><label for="mobileNavToggle" class="mobile-nav-toggle-label fixed-nav-toggle-label"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label>
-            <!-- comment the linebreak between these two elements because science-->
-
-            <div id="headerNav"><squarespace:navigation navigationId="mainNav" template="navigation" /></div>
           </div>
         </div>
       </div>
