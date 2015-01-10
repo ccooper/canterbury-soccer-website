@@ -10,6 +10,13 @@
   box-sizing: border-box;
 }
 
+.mobile {
+  display: block;
+}
+
+.desktop {
+  display: none;
+}
 
 .flex-logo {
   width: 100%;
