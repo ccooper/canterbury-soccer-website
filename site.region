@@ -37,6 +37,7 @@
 
           <!-- comment the linebreak between these two elements because science-->
           <div class="unit unit-s-2-3 unit-m-2-3 unit-l-2-3">
+            <div class="social-icons">
             <div class="unit unit-s-1-5 unit-m-1-5 unit-l-1-5">
               <img src="http://canterburysoccerclub.com/assets/twitter.png" class="flex-social">
             </div>
@@ -44,6 +45,7 @@
             <div class="unit unit-s-1-5 unit-m-1-5 unit-l-1-5">
               <img src="http://canterburysoccerclub.com/assets/facebook.png" class="flex-social">
             </div>
+          </div>
 
             <label for="mobileNavToggle" class="mobile-nav-toggle-label"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label><label for="mobileNavToggle" class="mobile-nav-toggle-label fixed-nav-toggle-label"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label>
           </div>
