@@ -194,4 +194,8 @@ transform: translate3d(-192px,0,0)!important;
 margin: 0!important;
 padding: .76em 0em !important;
 }
+
+.enable-nav-button #headerNav nav>div:not(.folder):last-child a, .enable-nav-button #sidecarNav nav>div:not(.folder):last-child a {
+  padding: .76em 0!important;
+}
 }
