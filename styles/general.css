@@ -28,6 +28,10 @@
   float: left;
 }
 
+.right {
+  float: right;
+}
+
 #header {
   background-color: #FFF!important;
   padding: 0!important;
