@@ -30,6 +30,7 @@
 
 .social-icons {
   text-align: right;
+  display: none!important;
 }
 
 .flex-social {
@@ -41,6 +42,7 @@
   background-color: #FFF!important;
   padding: 0!important;
   position: fixed!important;
+  height: 10%;
 }
 
 .header-inner {
@@ -57,15 +59,16 @@ background-color: #FBB03B!important;
 
 .force-mobile-nav .mobile-nav-toggle-label {
 position: relative;
+right: 10px;
 }
 
 h1 {
 font-family: sans-serif!important;
 text-transform: uppercase!important;
-font-size: 1em!important;
-color: #FBB03B!important;
-margin: 0!important;
-padding: 1.1em!important;
+font-size: 0.65em !important;
+color: #fbb03b !important;
+margin: 0 !important;
+padding: 0.8em 0.5em !important;
 }
 
 #sidecarNav {
