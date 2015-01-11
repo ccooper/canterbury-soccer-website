@@ -189,12 +189,20 @@ line-height: initial !important;
 }
 
 /* TWITTER */
-.tweet-text .hashtag {
-color: #3ac0df!important;
+.tweet-from a {
+color: #646469!important;
 }
 
 .tweet-text {
 color: black;
+}
+
+.tweet-text .hashtag {
+color: #3ac0df!important;
+}
+
+.tweet-timestamp a {
+color: #000!important;
 }
 
 .twitter-block {
