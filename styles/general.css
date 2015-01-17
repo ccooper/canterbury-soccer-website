@@ -168,6 +168,12 @@ padding: 0.8em 0.5em !important;
 line-height: initial !important;
 }
 
+.pre-footer-content h2 {
+  color: #646469!important;
+  padding-bottom: 1em;
+  margin: 0;
+}
+
 .sqs-block-content > h2{
   color: #3AC0DF !important;
   font-weight:600 !important;
