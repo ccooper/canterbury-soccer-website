@@ -212,6 +212,10 @@ letter-spacing: 1px!important;
 }
 
 /* TWITTER */
+.twitter {
+text-align: left;
+}
+
 .tweet-from a {
 color: #646469!important;
 }
