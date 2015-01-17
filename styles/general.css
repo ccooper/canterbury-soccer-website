@@ -369,7 +369,9 @@ width: 60% !important;
 #header h1 {
 font-size: 0.65em;
 }
-
+.tweet-text {
+padding-top: 1.5em;
+}
 }
 
 /* 360 px */
