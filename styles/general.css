@@ -222,7 +222,6 @@ color: #646469!important;
 
 .tweet-text {
 color: black;
-padding-top: 1em;
 }
 
 .tweet-text .hashtag {
@@ -316,6 +315,15 @@ position: fixed;
 transform: translatex(-170px) translatez(0)!important;
 transform: translate3d(-170px,0,0)!important;
 }
+
+.tweet-text {
+color: black;
+padding-top: 1em;
+}
+
+.pre-footer-content a {
+font-size: 0.6em !important;
+}
 }
 
 /* 240px */
@@ -337,10 +345,6 @@ padding: .76em 0em !important;
 
 .enable-nav-button #headerNav nav>div:not(.folder):last-child a, .enable-nav-button #sidecarNav nav>div:not(.folder):last-child a {
   padding: .76em 0!important;
-}
-
-.pre-footer-content a {
-font-size: 0.6em !important;
 }
 }
 
