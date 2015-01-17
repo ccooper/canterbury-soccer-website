@@ -289,7 +289,7 @@ font-size: 10.5px;
 }
 
 /* FOOTER NAV */
-#secondaryNavWrapper #secondaryNavigation div a, #secondaryNavWrapper #secondaryNavigation div label {
+#secondaryNavWrapper #secondaryNavigation>div {
 display: inline-block!important;
 padding: .7em!important;
 }
