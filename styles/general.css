@@ -318,7 +318,11 @@ transform: translate3d(-170px,0,0)!important;
 
 .tweet-text {
 color: black;
-padding-top: 1em;
+padding-top: 0.5em;
+}
+
+.tweet-text .hashtag {
+font-size: 1em;
 }
 
 .pre-footer-content a {
