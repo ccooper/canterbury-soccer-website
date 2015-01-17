@@ -236,6 +236,11 @@ color: #000!important;
 padding: 0 1em!important;
 }
 
+.twitter-block .tweet .tweet-text-wrapper {
+margin-left: 0px!important;
+text-align: left;
+}
+
 /* FOOTER */
 #footer h3 {
   font-weight: 600!important;
