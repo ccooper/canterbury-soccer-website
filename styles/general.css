@@ -288,6 +288,14 @@ font-size: 10.5px;
   text-align: center;
 }
 
+/* FOOTER NAV */
+#secondaryNavWrapper #secondaryNavigation div a, #secondaryNavWrapper #secondaryNavigation div label {
+display: inline-block!important;
+padding: .7em!important;
+}
+
+
+
 /* 213px */
 @media only screen and (min-width: 13em) {
   .force-mobile-nav #mobileNavToggle:checked~#siteWrapper {
