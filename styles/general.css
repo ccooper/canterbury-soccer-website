@@ -190,6 +190,8 @@ line-height: initial !important;
  margin-right: 0!important;
 font-size: 0.45em!important;
 letter-spacing: 1px!important;
+margin-bottom: 1em!important;
+display: block;
 }
 .pre-footer-content h2 {
   color: #646469!important;
