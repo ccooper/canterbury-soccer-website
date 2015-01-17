@@ -181,6 +181,12 @@ padding: 0.8em 0.5em !important;
 line-height: initial !important;
 }
 
+/* PRE FOOTER */
+.pre-footer-content a {
+ margin-right: 0!important;
+font-size: 0.45em!important;
+letter-spacing: 1px!important;
+}
 .pre-footer-content h2 {
   color: #646469!important;
   padding-bottom: 1em;
@@ -195,12 +201,6 @@ line-height: initial !important;
 }
 .sqs-block-content > p{
   margin:0 auto 20px;
-}
-
-#footer h3 {
-  font-weight: 600!important;
-  text-align: center;
-  color: #FFF!important;
 }
 
 .sqs-layout .sqs-row{
@@ -229,6 +229,12 @@ padding: 0 1em!important;
 }
 
 /* FOOTER */
+#footer h3 {
+  font-weight: 600!important;
+  text-align: center;
+  color: #FFF!important;
+}
+
 .dot {
 margin: 0;
 display: inline-block;
