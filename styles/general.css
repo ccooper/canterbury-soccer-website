@@ -366,6 +366,10 @@ font-size: .7em !important;
   #sidecarNav {
 width: 60% !important;
 }
+#header h1 {
+font-size: 0.65em;
+}
+
 }
 
 /* 360 px */
