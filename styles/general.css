@@ -48,6 +48,10 @@
 padding: 1em 1em 0 1em!important;
 }
 
+.sqs-layout .sqs-row .sqs-block:last-child {
+ padding-bottom: 0px !important;
+}
+
 .footer-inner, .pre-footer-inner .sqs-layout {
 padding: 0!important;
 }
