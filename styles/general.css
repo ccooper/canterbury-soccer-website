@@ -226,6 +226,7 @@ color: black;
 
 .tweet-text .hashtag {
 color: #3ac0df!important;
+font-size: 0.95em;
 }
 
 .tweet-timestamp a {
@@ -239,6 +240,24 @@ padding: 0 1em!important;
 .twitter-block .tweet .tweet-text-wrapper {
 margin-left: 0px!important;
 text-align: left;
+}
+
+/* TWEET FOLLOW BTN */
+.btn {
+position: relative;
+background-color: #3ac0df;
+ background-image: none!important;
+ border: none!important;
+border-radius: 3px;
+color: #FFF;
+font-weight: 300;
+ text-shadow: none!important;
+cursor: pointer;
+height: 18px;
+max-width: 98%;
+overflow: hidden;
+font-family: 'Lato', sans-serif;
+text-transform: uppercase;
 }
 
 /* FOOTER */
