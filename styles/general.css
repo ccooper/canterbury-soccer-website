@@ -43,6 +43,19 @@
   display: block;
 }
 
+/* PAGE PADDING */
+#page, #preFooter {
+padding: 1em 1em 0 1em!important;
+}
+
+.footer-inner, .pre-footer-inner .sqs-layout {
+padding: 0!important;
+}
+
+#footer {
+  padding: 1em;
+}
+
 /* Header & Mobile Nav */
 #header {
   background-color: #FFF!important;
