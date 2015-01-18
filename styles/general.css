@@ -466,10 +466,10 @@ font-size: 1.05em !important;
 }
 
 #mobileNavToggle:checked~#siteWrapper {
--webkit-transform: translate3d(-215px,0,0) !important;
--moz-transform: translate3d(-215px,0,0) !important;
--ms-transform: translate3d(-215px,0,0) !important;
--o-transform: translate3d(-215px,0,0) !important;
+-webkit-transform: translate3d(-239px,0,0) !important;
+-moz-transform: translate3d(-239px,0,0) !important;
+-ms-transform: translate3d(-239px,0,0) !important;
+-o-transform: translate3d(-239px,0,0) !important;
 transform: translate3d(-239px,0,0) !important;
 }
 
@@ -487,10 +487,10 @@ font-size: 1.2em !important;
 }
 
 #mobileNavToggle:checked~#siteWrapper {
--webkit-transform: translate3d(-215px,0,0) !important;
--moz-transform: translate3d(-215px,0,0) !important;
--ms-transform: translate3d(-215px,0,0) !important;
--o-transform: translate3d(-215px,0,0) !important;
+-webkit-transform: translate3d(-270px,0,0) !important;
+-moz-transform: translate3d(-270px,0,0) !important;
+-ms-transform: translate3d(-270px,0,0) !important;
+-o-transform: translate3d(-270px,0,0) !important;
 transform: translate3d(-270px,0,0) !important;
 }
 
@@ -507,6 +507,17 @@ font-size: 1.05em !important;
 .social-icons {
 padding: 4.7% 0;
 }
-
+.force-mobile-nav #mobileNavToggle:checked~#siteWrapper {
+position: fixed;
+-webkit-transform: translatex(-324px) !important;
+-webkit-transform: translate3d(-324px,0,0) !important;
+-moz-transform: translatex(-324px) translatez(0) !important;
+-moz-transform: translate3d(-324px,0,0) !important;
+-ms-transform: translatex(-324px) translatez(0) !important;
+-ms-transform: translate3d(-324px,0,0) !important;
+-o-transform: translatex(-324px) translatez(0) !important;
+-o-transform: translate3d(-324px,0,0) !important;
+transform: translate3d(-324px,0,0) !important;
+}
 }
 
