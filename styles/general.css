@@ -680,4 +680,15 @@ font-size: 0.85em;
 #headerNav nav:first-child a {
 padding-left: 0;
 }
+.header-nav {
+  padding: 2em 1em!important;
+}
+#headerNav .dot {
+padding: 0 1em;
+margin: -8% 0;
+font-size: 0.7em;
+}
+#headerNav a {
+padding: 0.5em 0!important;
+}
 }
