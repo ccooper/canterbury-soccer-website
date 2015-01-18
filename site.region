@@ -29,9 +29,162 @@
             </div>
 
             <div class="h1-visibility">
-            <div class="unit unit-s-1-2 unit-s-1-9-1 unit-m-3-4 unit-l-3-4">
+            <div class="unit unit-s-1-2 unit-s-1-9-1 unit-m-3-4 unit-l-3-4 header-nav">
               <h1>Canterbury Soccer Club</h1>
-              <div id="headerNav"><squarespace:navigation navigationId="mainNav" template="navigation" /></div>
+              <div id="headerNav"><div id="mainNavWrapper" class="nav-wrapper" data-content-field="navigation-mainNav">
+  <nav id="mainNavigation" data-content-field="navigation-mainNav">
+
+
+
+
+
+
+
+          <div class="collection active homepage">
+            <a href="/">
+              Home
+            </a>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div class="collection">
+            <a href="/schedule/">
+              Schedule
+            </a>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div class="collection">
+            <a href="/kids-corner/">
+              Kid's Corner
+            </a>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div class="collection">
+            <a href="/coachs-corner/">
+              Coach's Corner
+            </a>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div class="collection">
+            <a href="/parents-corner/">
+              Parent's Corner
+            </a>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div class="collection">
+            <a href="/join-us/">
+              Join Us
+            </a>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div class="collection">
+            <a href="/events/">
+              Events
+            </a>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div class="collection">
+            <a href="/map/">
+              Map
+            </a>
+          </div>
+
+
+
+
+
+
+
+  </nav>
+</div>
+<!-- style below blocks out the mobile nav toggle only when nav is loaded -->
+<style>.mobile-nav-toggle-label { display: inline-block !important; }</style>
+
+
+</div>
             </div>
           </div>
           </div>
@@ -274,7 +427,7 @@
         </div>	<p class="dot">•</p>
         <div class="external">
           <a href="http://www.canterburysoccerclub.com/kids-corner/">
-            <span>Kid's Corner</span> 
+            <span>Kid's Corner</span>
           </a>
         </div> <p class="dot">•</p>
         <div class="external">
@@ -282,7 +435,7 @@
             <span>Coach's Corner</span>
           </a>
         </div> <p class="dot">•</p>
-       
+
         <div class="external">
           <a href="http://www.canterburysoccerclub.com/parents-corner/">
             <span>Parent's Corner</span> </a>
@@ -300,7 +453,7 @@
         </div> <p class="dot">•</p>
         <div class="external">
           <a href="http://www.canterburysoccerclub.com/map/">
-            <span>Map</span> 
+            <span>Map</span>
           </a>
         </div>
   </nav>
