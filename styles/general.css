@@ -529,6 +529,10 @@ transform: translate3d(-324px,0,0) !important;
 padding: 2em 7.4em!important;
 }
 
+.pre-footer-content {
+padding: 3em 1.6em;
+}
+
 .pre-footer-content a {
 font-size: .8em !important;
 margin: 0!important;
@@ -563,5 +567,16 @@ font-size: .9em !important;
 }
 .force-mobile-nav .mobile-nav-toggle-label {
 right: 16px !important;
+}
+}
+
+/* 800 PX */
+@media only screen and (min-width: 50em) {
+  #header h1 {
+font-size: 1.16em !important;
+}
+
+#sidecarNav {
+width: 41% !important;
 }
 }
