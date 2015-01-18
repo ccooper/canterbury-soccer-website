@@ -65,6 +65,7 @@ padding: 0!important;
   background-color: #FFF!important;
   padding: 0!important;
   box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  position: inherit!important;
 -webkit-transition: height 0.3s;
 -moz-transition: height 0.3s;
 -ms-transition: height 0.3s;
