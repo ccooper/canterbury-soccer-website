@@ -531,5 +531,12 @@ margin: 0!important;
 .pre-footer-content:first-child a {
   margin-right: 1em!important;
 }
+
+#footer nav:not(.social-account-list) {
+font-size: 0.65em!important;
+}
+#secondaryNavWrapper {
+padding: 0 0 1em!important;
+}
 }
 
