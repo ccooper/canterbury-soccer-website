@@ -610,3 +610,19 @@ padding: 1em 2.7em;
 padding: 0 2.7em !important;
 }
 }
+
+/* 960 PX */
+@media only screen and (min-width: 60em) {
+  #header h1 {
+font-size: 1.4em !important;
+}
+.social-icons {
+padding: 5.6% 0;
+}
+.force-mobile-nav .mobile-nav-toggle-label {
+right: 22px !important;
+}
+#preFooter {
+padding: 2em 9em !important;
+}
+}
