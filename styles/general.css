@@ -662,4 +662,7 @@ height: 3px;
 #sidecarNav {
 width: 26% !important;
 }
+#preFooter {
+padding: 2em 16.8em !important;
+}
 }
