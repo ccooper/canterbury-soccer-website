@@ -561,4 +561,7 @@ font-size: .7em !important;
 .pre-footer-content a {
 font-size: .9em !important;
 }
+.force-mobile-nav .mobile-nav-toggle-label {
+right: 16px !important;
+}
 }
