@@ -179,13 +179,7 @@ transform: translate3d(-140px,0,0)!important;
 
 /* HEADER BANNER */
 #promotedGalleryWrapper .color-overlay, .promoted-gallery-wrapper .color-overlay, .banner-thumbnail-wrapper .color-overlay, .sqs-featured-posts-gallery .color-overlay {
-position: absolute;
-top: 0;
-right: 0;
-bottom: 0;
-left: 0;
-background-color: none!important;
-z-index: 99;
+display: none;
 }
 
 /* H1, H2, etc */
