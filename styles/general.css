@@ -468,5 +468,8 @@ width: 83%;
 transform: translate3d(-239px,0,0) !important;
 }
 
-
+.pre-footer-content a {
+font-size: .75em !important;
+margin: 0 1em;
+}
 }
