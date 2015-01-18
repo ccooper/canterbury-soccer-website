@@ -666,3 +666,18 @@ width: 26% !important;
 padding: 2em 16.8em !important;
 }
 }
+
+/* 1366 PX */
+@media only screen and (min-width: 85em) {
+  #header h1 {
+font-size: 1.2em !important;
+padding: 0 0em!important;
+}
+
+#headerNav nav a, #sidecarNav nav a, #headerNav nav a:visited, #sidecarNav nav a:visited, #headerNav nav label, #sidecarNav nav label {
+font-size: 0.85em;
+}
+#headerNav nav:first-child a {
+padding-left: 0;
+}
+}
