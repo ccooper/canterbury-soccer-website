@@ -597,4 +597,16 @@ font-size: 1.16em !important;
 #sidecarNav {
 width: 41% !important;
 }
+.pre-footer-content {
+padding: 3em 1.7em !important;
+}
+.pre-footer-content a {
+font-size: .85em !important;
+}
+#block-yui_3_17_2_2_1420920523009_10202 {
+padding: 1em 2.7em;
+}
+.twitter-block {
+padding: 0 2.7em !important;
+}
 }
