@@ -613,6 +613,9 @@ padding: 0 2.7em !important;
 
 /* 960 PX */
 @media only screen and (min-width: 60em) {
+  #sidecarNav {
+width: 34% !important;
+}
   #header h1 {
 font-size: 1.4em !important;
 }
@@ -624,5 +627,8 @@ right: 22px !important;
 }
 #preFooter {
 padding: 2em 9em !important;
+}
+.pre-footer-content a {
+font-size: 1em !important;
 }
 }
