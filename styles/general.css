@@ -700,4 +700,7 @@ padding: 9% 2em;
 .mobile-nav-toggle-label {
 display: none!important;
 }
+.header-inner .mobile-nav-toggle-label {
+display: none!important;
+}
 }
