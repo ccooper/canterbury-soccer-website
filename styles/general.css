@@ -540,3 +540,16 @@ padding: 0 0 1em!important;
 }
 }
 
+/* 768 PX */
+@media only screen and (min-width: 48em) {
+  #header h1 {
+font-size: 1.1em !important;
+}
+
+#sidecarNav {
+width: 42.2% !important;
+}
+#footer nav:not(.social-account-list) {
+font-size: .7em !important;
+}
+}
