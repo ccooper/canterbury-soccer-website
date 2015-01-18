@@ -433,6 +433,19 @@ font-size: .8em !important;
   #header h1 {
     font-size: .85em !important;
   }
+}
 
+/* 480 PX */
+@media only screen and (min-width: 30em) {
+  #sidecarNav {
+width: 45% !important;
+}
 
+#header h1 {
+font-size: .95em !important;
+}
+
+#page, #preFooter {
+padding: 2em 2em 0 2em !important;
+}
 }
