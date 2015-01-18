@@ -456,10 +456,6 @@ padding: 2em 2em 0 2em !important;
 font-size: 1.05em !important;
 }
 
-.unit-s-1-9 {
-width: 83%;
-}
-
 #mobileNavToggle:checked~#siteWrapper {
 -webkit-transform: translate3d(-215px,0,0) !important;
 -moz-transform: translate3d(-215px,0,0) !important;
