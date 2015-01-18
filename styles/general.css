@@ -677,9 +677,6 @@ padding: 0 0em!important;
 #headerNav nav a, #sidecarNav nav a, #headerNav nav a:visited, #sidecarNav nav a:visited, #headerNav nav label, #sidecarNav nav label {
 font-size: 0.85em;
 }
-#headerNav nav:first-child a {
-padding-left: 0;
-}
 .header-nav {
   padding: 2em 1em!important;
 }
@@ -693,5 +690,8 @@ padding: 0.5em 0!important;
 }
 #headerNav nav a {
 font-size: 0.85em!important;
+}
+.header-nav {
+padding: 1.6em 1em !important;
 }
 }
