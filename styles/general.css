@@ -519,5 +519,17 @@ position: fixed;
 -o-transform: translate3d(-324px,0,0) !important;
 transform: translate3d(-324px,0,0) !important;
 }
+#preFooter {
+padding: 2em 7.4em 0 7.4em!important;
+}
+
+.pre-footer-content a {
+font-size: .8em !important;
+margin: 0!important;
+}
+
+.pre-footer-content:first-child a {
+  margin-right: 1em!important;
+}
 }
 
