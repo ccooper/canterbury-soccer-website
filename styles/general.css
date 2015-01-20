@@ -441,9 +441,9 @@ font-size: .8em !important;
 
 /* 414PX */
 @media only screen and (min-width: 25.8em) {
-/*  #header h1 {
-    font-size: .85em !important;
-  }*/
+  #header h1 {
+    font-size: 1em !important;
+  }
 }
 
 /* 480 PX */
@@ -467,10 +467,10 @@ padding: 2em;
 
 /* 528 PX */
 @media only screen and (min-width: 33em) {
-  #header h1 {
+/*  #header h1 {
     font-size: 1em !important;
   }
-
+*/
 #mobileNavToggle:checked~#siteWrapper {
 -webkit-transform: translate3d(-239px,0,0) !important;
 -moz-transform: translate3d(-239px,0,0) !important;
