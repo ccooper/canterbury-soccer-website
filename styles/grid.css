@@ -53,11 +53,11 @@
   .unit-s-1-5 {
     width: 15%;
   }
-  
+  /*
   .unit-s-1-9 {
     width: 80%;
     margin:0;
-  }
+  }*/
   .unit-s-1-2 {
     width: 50%;
   }
@@ -102,10 +102,10 @@ width: 7%;
   }
   .unit-m-3-4 {
     width: 75%;
-  }
+  }/*
   .unit-m-1-9 {
     width: 90%;
-  }
+  }*/
 }
 @media only screen and (min-width: 60em) and (max-width: 84em) {
   .unit-l-hidden {
