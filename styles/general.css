@@ -702,7 +702,7 @@ padding: 2em 19.2em !important;
 /* 1440 PX */
 @media only screen and (min-width: 90em) {
   .social-icons {
-padding: 0% 2em;
+padding: 50px 2em 0;
 }
 .header-nav {
 padding: 1.8em 1em !important;
