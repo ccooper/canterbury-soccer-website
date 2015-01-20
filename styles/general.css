@@ -187,7 +187,7 @@ display: none;
 text-transform: uppercase!important;
 color: #fbb03b!important;
 margin: 0 !important;
-padding: 20% 0.5em !important;
+padding: 19% 0.5em !important;
 line-height: initial !important;
 }
 
@@ -439,22 +439,14 @@ font-size: .8em !important;
 }*/
 }
 
-/* 414PX */
-@media only screen and (min-width: 25.8em) {
-  #header h1 {
-    font-size: 1em !important;
-  }
-}
-
 /* 480 PX */
 @media only screen and (min-width: 30em) {
   #sidecarNav {
 width: 45% !important;
 }
-/*
-#header h1 {
-font-size: .95em !important;
-}*/
+  #header h1 {
+    font-size: 1em !important;
+  }
 
 #page, #preFooter {
 padding: 2em 2em 0 2em !important;
