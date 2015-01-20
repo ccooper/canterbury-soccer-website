@@ -664,10 +664,10 @@ padding: 2em 16.8em !important;
 @media only screen and (min-width: 85em) {
   #header h1 {
 font-size: 1.2em !important;
-padding: 0 0em!important;
+padding: 0em!important;
 }
   .social-icons {
-padding: 1em 0 0;
+padding: 2.5em 1em 0;
 }
 #headerNav nav a, #sidecarNav nav a, #headerNav nav a:visited, #sidecarNav nav a:visited, #headerNav nav label, #sidecarNav nav label {
 font-size: 0.85em;
@@ -705,7 +705,7 @@ padding: 2em 19.2em !important;
 @media only screen and (min-width: 90em) {     
 
 .header-nav {
-padding: 2em 1em 0 !important;
+padding: 2em 0em 0 !important;
 }
 .transparent-header.view-list .banner-thumbnail-wrapper, .transparent-header.collection-type-page .banner-thumbnail-wrapper {
 padding-bottom: 17.5% !important;
