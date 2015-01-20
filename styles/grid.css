@@ -77,7 +77,7 @@
     width: 75%;
   }
 }
-@media only screen and (min-width: 38em) and (max-width: 84em) {
+@media only screen and (min-width: 38em) and (max-width: 60em) {
   .unit-m-hidden {
     display: none;
     visibility: hidden;
@@ -106,7 +106,7 @@ width: 7%;
   .unit-m-1-9 {
     width: 90%;
   }*/
-}/*
+}
 @media only screen and (min-width: 60em) and (max-width: 84em) {
   .unit-l-hidden {
     display: none;
@@ -136,7 +136,8 @@ width: 7%;
   .unit-l-1-9 {
     width: 90%;
   }
-}*/
+}
+
 @media only screen and (min-width: 84em) {
   .unit-l-hidden {
     display: none;
