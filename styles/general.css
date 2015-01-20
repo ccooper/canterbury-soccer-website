@@ -676,7 +676,7 @@ font-size: 1.2em !important;
 padding: 0 0em!important;
 }
   .social-icons {
-padding: 2em;
+padding: 2em 0 0;
 }
 #headerNav nav a, #sidecarNav nav a, #headerNav nav a:visited, #sidecarNav nav a:visited, #headerNav nav label, #sidecarNav nav label {
 font-size: 0.85em;
