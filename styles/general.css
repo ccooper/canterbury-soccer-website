@@ -675,7 +675,9 @@ padding: 2em 16.8em !important;
 font-size: 1.2em !important;
 padding: 0 0em!important;
 }
-
+  .social-icons {
+padding: 2em;
+}
 #headerNav nav a, #sidecarNav nav a, #headerNav nav a:visited, #sidecarNav nav a:visited, #headerNav nav label, #sidecarNav nav label {
 font-size: 0.85em;
 }
@@ -710,9 +712,7 @@ padding: 2em 19.2em !important;
 
 /* 1440 PX */
 @media only screen and (min-width: 90em) {     
-  .social-icons {
-padding: 2em;
-}
+
 .header-nav {
 padding: 2em 1em 0 !important;
 }
