@@ -448,8 +448,10 @@ width: 45% !important;
   #header h1 {
     font-size: 1em !important;
   }
-
-#page, #preFooter {
+#page{
+padding: 0em 2em 0 2em !important;
+}
+#preFooter {
 padding: 2em 2em 0 2em !important;
 }
 
