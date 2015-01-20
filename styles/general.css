@@ -39,6 +39,7 @@
 }
 
 .flex-social {
+  width: 100%;
   display: block;
 }
 
@@ -502,7 +503,7 @@ font-size: .9em !important;
 /*  #header h1 {
 font-size: 1.05em !important;
 }*/
-.flex-social{
+.social-icons {
 padding: 4.7% 0;
 }
 .force-mobile-nav #mobileNavToggle:checked~#siteWrapper {
