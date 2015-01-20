@@ -275,7 +275,7 @@ text-transform: uppercase;
   color: #FFF!important;
 }
 .flex-social{
-  right:100px;
+  margin-right:100px;
 }
 .dot {
 margin: 0;
