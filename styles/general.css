@@ -274,7 +274,9 @@ text-transform: uppercase;
   text-align: center;
   color: #FFF!important;
 }
-
+.social-icons{
+  right:100px;
+}
 .dot {
 margin: 0;
 display: inline-block;
