@@ -400,9 +400,9 @@ text-align: right;
 display: block !important;
 padding: 8.1% 0;
 }
-#header h1 {
+/*#header h1 {
 font-size: 0.7em!important;
-}
+}*/
 .pre-footer-content a {
 font-size: 1em !important;
 }
