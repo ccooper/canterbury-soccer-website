@@ -78,7 +78,6 @@
     width: 75%;
   }
 }
-
 @media only screen and (min-width: 38em) and (max-width: 60em) {
   .unit-m-hidden {
     display: none;
@@ -111,10 +110,10 @@ width: 7%;
     width: 75%;
   }
 
-  
+  /*
   .unit-m-1-9 {
     width: 90%;
-  }
+  }*/
 }
 @media only screen and (min-width: 60em) and (max-width: 84em) {
   .unit-l-hidden {
