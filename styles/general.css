@@ -25,6 +25,7 @@
 
 .flex-logo {
   width: 100%;
+  max-width: 100px;
   display: block;
   background-color: #FBB03B;
 }
