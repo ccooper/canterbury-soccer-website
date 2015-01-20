@@ -446,7 +446,6 @@ width: 45% !important;
 }
   #header h1 {
     font-size: 1em !important;
-    padding: 11% .5em 0 !important;
   }
 
 #page, #preFooter {
@@ -480,10 +479,10 @@ display: inline-block!important;
 }
 
 /* 600 PX */
-@media only screen and (min-width: 37.5em) {
-/*#header h1 {
-font-size: 1.2em !important;
-}*/
+@media only screen and (min-width: 38em) {
+#header h1 {
+    padding: 11% .5em 0 !important;
+}
 
 #mobileNavToggle:checked~#siteWrapper {
 -webkit-transform: translate3d(-270px,0,0) !important;
