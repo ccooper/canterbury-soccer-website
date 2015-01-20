@@ -705,7 +705,7 @@ padding: 2em 19.2em !important;
 @media only screen and (min-width: 90em) {     
 
 .header-nav {
-padding: 2em 0em 0 !important;
+padding: 2em 1em 0 !important;
 }
 .transparent-header.view-list .banner-thumbnail-wrapper, .transparent-header.collection-type-page .banner-thumbnail-wrapper {
 padding-bottom: 17.5% !important;
