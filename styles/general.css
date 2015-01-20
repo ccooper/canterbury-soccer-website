@@ -678,9 +678,6 @@ padding: 0 0em!important;
 #headerNav nav a, #sidecarNav nav a, #headerNav nav a:visited, #sidecarNav nav a:visited, #headerNav nav label, #sidecarNav nav label {
 font-size: 0.85em;
 }
-.header-nav {
-  padding: 2em 1em!important;
-}
 #headerNav .dot {
 padding: 0 1em;
 margin: -9% 0;
@@ -694,9 +691,6 @@ font-size: 0.85em!important;
 }
 .header-nav {
 padding: 1.6em 1em !important;
-}
-.social-icons {
-padding: 9% 2em;
 }
 .mobile-nav-toggle-label {
 display: none!important;
