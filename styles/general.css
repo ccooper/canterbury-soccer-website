@@ -648,10 +648,10 @@ padding: 2em 9.7em !important;
 
 /* 1280 PX */
 @media only screen and (min-width: 80em) {
-  #header h1 {
+/*  #header h1 {
 font-size: 1.45em !important;
 padding: 1.3em 1em!important;
-}
+}*/
 .force-mobile-nav .mobile-nav-toggle-label {
 right: 30px !important;
 }
