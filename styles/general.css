@@ -187,7 +187,7 @@ display: none;
 text-transform: uppercase!important;
 color: #fbb03b!important;
 margin: 0 !important;
-padding: 19% 0.5em !important;
+padding: 19% 0.5em 0 !important;
 line-height: initial !important;
 }
 
