@@ -42,9 +42,6 @@
   width: 40px;
   display: block;
 }
-.unit-s-1-5 /*hacking cause whatever*/{
-  display:inline-block;
-}
 
 /* PAGE PADDING */
 #page, #preFooter {
