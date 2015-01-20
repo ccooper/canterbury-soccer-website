@@ -184,7 +184,6 @@ display: none;
 
 /* H1, H2, etc */
 #header h1 {
-position: absolute;
 text-transform: uppercase!important;
 color: #fbb03b!important;
 margin: 0 !important;
