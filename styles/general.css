@@ -451,10 +451,10 @@ font-size: .8em !important;
   #sidecarNav {
 width: 45% !important;
 }
-
+/*
 #header h1 {
 font-size: .95em !important;
-}
+}*/
 
 #page, #preFooter {
 padding: 2em 2em 0 2em !important;
@@ -467,9 +467,9 @@ padding: 2em;
 
 /* 533 PX */
 @media only screen and (min-width: 33em) {
-  #header h1 {
+/*  #header h1 {
 font-size: 1.05em !important;
-}
+}*/
 
 #mobileNavToggle:checked~#siteWrapper {
 -webkit-transform: translate3d(-239px,0,0) !important;
