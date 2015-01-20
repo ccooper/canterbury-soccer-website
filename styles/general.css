@@ -480,7 +480,7 @@ display: inline-block!important;
 }
 
 /* 600 PX */
-@media only screen and (min-width: 38em) {
+@media only screen and (min-width: 37.5em) {
 /*#header h1 {
 font-size: 1.2em !important;
 }*/
