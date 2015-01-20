@@ -484,6 +484,9 @@ display: inline-block!important;
 #header h1 {
 padding: 8% .5em 0 !important;
 }
+.social-icons{
+  padding: 4.5% 0 0;
+}
 
 #mobileNavToggle:checked~#siteWrapper {
 -webkit-transform: translate3d(-270px,0,0) !important;
