@@ -705,7 +705,7 @@ padding: 2em 19.2em !important;
 }
 
 /* 1440 PX */
-@media only screen and (min-width: 90em) {
+@media only screen and (min-width: 90em) {     
   .social-icons {
 padding: 8.6% 2em;
 }
