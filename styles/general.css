@@ -481,12 +481,9 @@ display: inline-block!important;
 
 /* 600 PX */
 @media only screen and (min-width: 38em) {
-#header h1 {
-padding: 8% .5em 0 !important;
-}
-.social-icons{
-  padding: 8.5% 0 0;
-}
+/*#header h1 {
+font-size: 1.2em !important;
+}*/
 
 #mobileNavToggle:checked~#siteWrapper {
 -webkit-transform: translate3d(-270px,0,0) !important;
