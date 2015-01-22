@@ -20,7 +20,7 @@
 
       <header id="header" class="show-on-scroll" data-offset-el=".index-section" data-offset-behavior="bottom" role="banner">
         <div class="grid">
-          <div class="unit unit-s-1 unit-m-1 unit-l-1-">
+          <div class="unit unit-s-1 unit-m-1 unit-l-1">
         <div class="mobile">
         <div class="header-inner">
           <div class="unit unit-s-1-3-1 unit-m-1-3 unit-l-3-4">
