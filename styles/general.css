@@ -496,6 +496,14 @@ font-size: 1em !important;
 padding: 0.7em 0!important;
 }
 
+.social-icons {
+padding: 5% 0;
+}
+
+.mobile-nav-toggle-label {
+right: 30px!important;
+}
+
 #mobileNavToggle:checked~#siteWrapper {
 -webkit-transform: translate3d(-270px,0,0) !important;
 -moz-transform: translate3d(-270px,0,0) !important;
