@@ -679,7 +679,7 @@ display: inline-block;
 
 .force-mobile-nav #mainNavWrapper nav {
  padding: 0!important; 
-display: inline-block;
+display: inline-block!important;
 }
 
 #preFooter {
