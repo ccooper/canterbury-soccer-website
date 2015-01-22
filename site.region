@@ -107,7 +107,53 @@
             </div>
             <div class="unit unit-s-3-4 unit-m-3-4 unit-l-3-4">
               <h1>Canterbury Soccer Club</h1>
-              <div id="headerNav"><squarespace:navigation navigationId="mainNav" template="navigation" /></div>
+              <div id="headerNav">
+                <div id="mainNavWrapper" class="nav-wrapper" data-content-field="navigation-mainNav">
+                  <nav id="mainNavigation" data-content-field="navigation-mainNav">
+          <div class="collection active homepage">
+            <a href="/">
+              Home
+            </a>
+          </div> <p class="dot">•</p>
+          <div class="collection">
+            <a href="/schedule/">
+              Schedule
+            </a>
+          </div> <p class="dot">•</p>
+          <div class="collection">
+            <a href="/kids-corner/">
+              Kid's Corner
+            </a>
+          </div> <p class="dot">•</p>
+          <div class="collection">
+            <a href="/coachs-corner/">
+              Coach's Corner
+            </a>
+          </div> <p class="dot">•</p>
+          <div class="collection">
+            <a href="/parents-corner/">
+              Parent's Corner
+            </a>
+          </div> <p class="dot">•</p>
+          <div class="collection">
+            <a href="/join-us/">
+              Join Us
+            </a>
+          </div> <p class="dot">•</p>
+          <div class="collection">
+            <a href="/events/">
+              Events
+            </a>
+          </div> <p class="dot">•</p>
+          <div class="collection">
+            <a href="/map/">
+              Map
+            </a>
+          </div>
+  </nav>
+</div>
+<!-- style below blocks out the mobile nav toggle only when nav is loaded -->
+</div>
             </div>
           </div>
 
