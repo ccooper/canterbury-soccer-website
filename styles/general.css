@@ -667,26 +667,6 @@ padding: 0!important;
 display: none!important;
 }
 
-.force-mobile-nav #header #headerNav {
-display: block!important;
-}
-
-#header #mainNavWrapper {
-position: relative;
-z-index: 1000;
-display: inline-block;
-width: 100%!important;
-}
-
-.force-mobile-nav #mainNavWrapper nav {
- padding: 0!important; 
-display: inline-block!important;
-}
-
-#header #headerNav {
- text-align: left!important; 
-}
-
 .force-mobile-nav #mainNavWrapper {
 background-color: transparent!important;
 -webkit-overflow-scrolling: touch;
@@ -705,12 +685,52 @@ transform: none!important;
 transition: transform 0s 0s ease-in-out;
 }
 
+.force-mobile-nav #header #headerNav {
+display: block!important;
+}
+
+#header #mainNavWrapper {
+position: relative;
+z-index: 1000;
+display: inline-block;
+width: 140%!important;
+}
+
+.force-mobile-nav #mainNavWrapper nav {
+ padding: 0!important; 
+display: inline-block!important;
+}
+
+#header #headerNav {
+ text-align: left!important; 
+}
+
+.force-mobile-nav #mainNavWrapper nav div a, .force-mobile-nav #mainNavWrapper nav div label {
+display: block;
+padding: 0em;
+font-size: 0.7em!important;
+}
+
+.header-nav .dot {
+padding: 0 1em;
+font-size: 10px;
+vertical-align: middle;
+}
+
+.header-nav {
+padding: 3% 0 3% 2%;
+}
+
 .collection {
 display: inline-block;
 }
 
+.social-icons {
+padding: 13% 0;
+}
+
 #preFooter {
-padding: 2em 9.7em !important;
+padding: 1em 10em 0 14.5em !important;
 }
 }
 
