@@ -345,7 +345,7 @@ font-size: 0.6em !important;
 
 /* 240px */
 @media only screen and (min-width: 15em) {
-#mobileNavToggle:checked~#siteWrapper {
+.force-mobile-nav #mobileNavToggle:checked~#siteWrapper {
 position: fixed;
 height: 100%;
 -webkit-transform: translate3d(-192px,0,0)!important;
