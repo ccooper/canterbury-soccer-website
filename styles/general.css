@@ -674,6 +674,7 @@ display: block!important;
 position: relative;
 z-index: 1000;
 display: inline-block;
+width: 100%!important;
 }
 
 .force-mobile-nav #mainNavWrapper nav {
