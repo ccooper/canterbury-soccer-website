@@ -659,9 +659,6 @@ font-size: 1em !important;
 
 /* 1024 PX */
 @media only screen and (min-width: 64em) {
-	.flex-logo {
-width: 70%;
-}
   #header h1 {
 font-size: 1em !important;
 padding: 0!important;
