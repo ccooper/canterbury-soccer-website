@@ -561,9 +561,9 @@ padding: 3em 1em!important;
 }
 
 .pre-footer-content a {
-font-size: .75em !important;
+font-size: .9em !important;
 margin: 0!important;
-display: block;
+display: block!important;
 }
 
 .pre-footer-content > a:first-of-type {
