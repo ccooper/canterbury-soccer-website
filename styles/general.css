@@ -552,6 +552,10 @@ transform: translate3d(-324px,0,0) !important;
 padding: 2em 7.4em!important;
 }
 
+#preFooter {
+padding: 1em 7.4em 0 10.5em !important;
+}
+
 .pre-footer-content {
 padding: 3em 1em!important;
 }
