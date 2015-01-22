@@ -711,6 +711,14 @@ padding: 0em;
 font-size: 0.7em!important;
 }
 
+.mobile {
+	display: none;
+}
+
+.desktop {
+	display: block;
+}
+
 .header-nav .dot {
 padding: 0 1em;
 font-size: 10px;
