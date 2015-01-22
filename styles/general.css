@@ -367,6 +367,10 @@ padding: .76em 0em !important;
 .pre-footer-content a {
 font-size: .7em !important;
 }
+
+.twitter-block .tweet .tweet-from {
+margin: 0 0 .5em 3em!important;
+}
 }
 
 /* 320px */
