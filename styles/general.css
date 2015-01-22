@@ -487,6 +487,14 @@ display: inline-block!important;
 
 /* 600 PX */
 @media only screen and (min-width: 38em) {
+.flex-logo {
+width: 80%;
+}
+
+#header h1 {
+font-size: 1em !important;
+padding: 0.7em 0!important;
+}
 
 #mobileNavToggle:checked~#siteWrapper {
 -webkit-transform: translate3d(-270px,0,0) !important;
