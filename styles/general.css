@@ -501,7 +501,7 @@ padding: 5% 0;
 }
 
 .mobile-nav-toggle-label {
-right: 30px!important;
+ right: 30px!important;
 }
 
 #mobileNavToggle:checked~#siteWrapper {
