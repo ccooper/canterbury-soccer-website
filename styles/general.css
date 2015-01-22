@@ -682,6 +682,10 @@ display: inline-block;
 display: inline-block!important;
 }
 
+#header #headerNav {
+ text-align: left; 
+}
+
 #preFooter {
 padding: 2em 9.7em !important;
 }
