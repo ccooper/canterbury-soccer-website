@@ -663,9 +663,25 @@ font-size: 1em !important;
   #header h1 {
 font-size: 1.45em !important;
 }
-#sidecarNav {
-width: 32% !important;
+.mobile-nav-toggle-label {
+display: none !important;
 }
+
+.force-mobile-nav #header #headerNav {
+display: block!important;
+}
+
+#header #mainNavWrapper {
+position: relative;
+z-index: 1000;
+display: inline-block;
+}
+
+.force-mobile-nav #mainNavWrapper nav {
+ padding: 0!important; 
+display: inline-block;
+}
+
 #preFooter {
 padding: 2em 9.7em !important;
 }
