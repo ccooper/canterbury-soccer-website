@@ -663,7 +663,7 @@ font-size: 1em !important;
   #header h1 {
 font-size: 1.45em !important;
 }
-.mobile-nav-toggle-label {
+.header-inner .mobile-nav-toggle-label {
 display: none!important;
 }
 
