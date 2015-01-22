@@ -704,6 +704,10 @@ transform: none!important;
 transition: transform 0s 0s ease-in-out;
 }
 
+.collection {
+display: inline-block;
+}
+
 #preFooter {
 padding: 2em 9.7em !important;
 }
