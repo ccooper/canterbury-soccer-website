@@ -659,6 +659,14 @@ font-size: 1em !important;
 
 /* 1024 PX */
 @media only screen and (min-width: 64em) {
+  .mobile {
+  display: none!important;
+}
+
+.desktop {
+  display: block!important;
+}
+
   #header h1 {
 font-size: 1em !important;
 padding: 0!important;
@@ -709,14 +717,6 @@ display: inline-block!important;
 display: block;
 padding: 0em;
 font-size: 0.7em!important;
-}
-
-.mobile {
-	display: none;
-}
-
-.desktop {
-	display: block;
 }
 
 .header-nav .dot {
