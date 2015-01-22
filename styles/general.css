@@ -563,10 +563,11 @@ padding: 3em 1em!important;
 .pre-footer-content a {
 font-size: .75em !important;
 margin: 0!important;
+display: block;
 }
 
-.pre-footer-content:first-child a {
-  margin-right: 1em!important;
+.pre-footer-content > a:first-of-type {
+margin-bottom: 1em !important;
 }
 
 .twitter-block {
