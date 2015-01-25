@@ -880,6 +880,10 @@ margin-right: 1em !important;
 .html-block a:not(.sqs-block-button-element) {
 font-size: .75em !important;
 }
+
+.eventlist--upcoming {
+padding: 0em 8em 0 13em !important;
+}
 }
 
 /* 1100 PX */
