@@ -246,6 +246,13 @@ text-align: center;
   color: #FFF!important;
 }
 
+.image-caption {
+text-align: center;
+ color: #3AC0DF!important;
+font-family: "Lato", sans-serif;
+text-transform: uppercase;
+}
+
 /* PRE FOOTER */
 .pre-footer-content a {
  margin-right: 0!important;
@@ -399,6 +406,10 @@ font-size: 1em;
 
 .pre-footer-content a {
 font-size: 0.6em !important;
+}
+
+.html-block a:not(.sqs-block-button-element) {
+font-size: .6em !important;
 }
 }
 
