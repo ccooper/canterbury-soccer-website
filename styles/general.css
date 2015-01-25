@@ -228,7 +228,7 @@ background: rgba(110,110,110,0.5);
 
 /* JOIN US */
 .html-block a:not(.sqs-block-button-element) {
-  color: #3AC0DF;
+  color: #3AC0DF!important;
 font-family: "Lato", sans-serif;
 text-transform: uppercase;
 border: solid 2px;
