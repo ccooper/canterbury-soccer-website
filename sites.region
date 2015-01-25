@@ -34,7 +34,7 @@
               <div id="headerNav">
                 <div id="mainNavWrapper" class="nav-wrapper" data-content-field="navigation-mainNav">
                   <nav id="mainNavigation" data-content-field="navigation-mainNav">
-          <div class="collection active homepage">
+          <div class="collection homepage">
             <a href="/">
               Home
             </a>
