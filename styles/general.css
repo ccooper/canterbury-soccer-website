@@ -846,6 +846,14 @@ padding: 2.7% 0 2.7% 2%;
 #preFooter {
 padding: 1em 17em 0 21.3em !important;
 }
+
+.yui3-squarespacecalendar .yui3-calendar-grid {
+margin-left: 11.4em;
+}
+
+.yui3-squarespacecalendar .yui3-calendar-header {
+margin: 0 11.4em 1em !important;
+}
 }
 
 /* 1366 PX */
