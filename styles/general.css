@@ -693,7 +693,7 @@ font-size: 0.7em !important;
 }
 
 /*EVENTS*/
-.eventlist--upcoming {
+.eventlist--upcoming, .eventlist--past {
 padding: 0em 5em 0 9em !important;
 }
 }
@@ -762,7 +762,7 @@ padding: 0 2.7em !important;
 font-size: 0.8em !important;
 }
 
-.eventlist--upcoming {
+.eventlist--upcoming, .eventlist--past {
 padding: 0em 6em 0 9em !important;
 }
 }
@@ -890,7 +890,7 @@ margin-right: 1em !important;
 font-size: .75em !important;
 }
 
-.eventlist--upcoming {
+.eventlist--upcoming, .eventlist--past {
 padding: 0em 8em 0 13em !important;
 }
 }
