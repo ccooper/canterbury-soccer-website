@@ -231,7 +231,7 @@ background: rgba(110,110,110,0.5);
   color: #3AC0DF!important;
 font-family: "Lato", sans-serif;
 text-transform: uppercase;
-border: solid 2px;
+border: solid 2px #3AC0DF;
 border-radius: 5px;
 padding: 0.5em 1em;
 font-weight: 600;
