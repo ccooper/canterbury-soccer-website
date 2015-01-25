@@ -747,7 +747,7 @@ margin-right: 1em !important;
 /* 1100 PX */
 @media only screen and (min-width: 68em) {
   #preFooter {
-padding: 0em 11em 0 16.3em !important;
+padding: 1em 11em 0 16.3em !important;
 }
 }
 
@@ -761,8 +761,12 @@ font-size: 1.45em !important;
 font-size: .8em !important;
 }
 
+.header-nav {
+padding: 2.7% 0 2.7% 2%;
+}
+
 #preFooter {
-padding: 2em 16.8em !important;
+padding: 1em 17em 0 21.3em !important;
 }
 }
 
