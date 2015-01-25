@@ -827,3 +827,14 @@ font-size: 1em;
 font-size: .8em !important;
 }
 }
+
+/* 1600 PX */
+@media only screen and (min-width: 100em) {
+  .social-icons {
+padding: 3em 1em;
+}
+#preFooter {
+padding: 1em 25em 0 30.2em !important;
+}
+}
+
