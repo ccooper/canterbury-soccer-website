@@ -895,6 +895,14 @@ padding-bottom: 230px!important;
 #preFooter {
 padding: 1em 18em 0 23.7em !important;
 }
+
+.yui3-squarespacecalendar .yui3-calendar-grid {
+margin-left: 12em;
+}
+
+.yui3-squarespacecalendar .yui3-calendar-header {
+margin: 0 12em 1em !important;
+}
 }
 
 /* 1440 PX */
