@@ -587,6 +587,17 @@ position: fixed;
 -o-transform: translate3d(-324px,0,0) !important;
 transform: translate3d(-324px,0,0) !important;
 }
+
+.yui3-squarespacecalendar .yui3-calendar-grid {
+width: 70%!important;
+margin-left: 7em;
+}
+
+.yui3-squarespacecalendar .yui3-calendar-header {
+margin: 0 7em 34px!important;
+width: 70%;
+}
+
 #preFooter {
 padding: 2em 7.4em!important;
 }
