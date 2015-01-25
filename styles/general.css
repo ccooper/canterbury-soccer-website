@@ -241,6 +241,7 @@ transition: all 0.55s ease 0;
 
 .html-block a:not(.sqs-block-button-element):hover {
   background-color: #3AC0DF;
+  color: #FFF;
 }
 
 /* PRE FOOTER */
