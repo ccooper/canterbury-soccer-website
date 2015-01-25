@@ -920,6 +920,16 @@ font-size: 1em;
 #footer nav:not(.social-account-list) {
 font-size: .8em !important;
 }
+
+.yui3-squarespacecalendar .yui3-calendar-grid {
+width: 75% !important;
+margin-left: 9.45em;
+}
+
+.yui3-squarespacecalendar .yui3-calendar-header {
+margin: 0 9.45em 1em !important;
+width: 75%;
+}
 }
 
 /* 1600 PX */
