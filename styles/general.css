@@ -457,6 +457,10 @@ font-size: 0.65em;
 .tweet-text {
 padding-top: 1.5em;
 }
+
+.html-block a:not(.sqs-block-button-element) {
+font-size: 1em !important;
+}
 }
 
 /* 360 px */
