@@ -755,18 +755,12 @@ padding: 0em 11em 0 16.3em !important;
 @media only screen and (min-width: 80em) {
   #header h1 {
 font-size: 1.45em !important;
-padding: 1.3em 1em!important;
 }
-.force-mobile-nav .mobile-nav-toggle-label {
-right: 30px !important;
+
+.force-mobile-nav #mainNavWrapper nav div a, .force-mobile-nav #mainNavWrapper nav div label {
+font-size: .8em !important;
 }
-.force-mobile-nav .mobile-nav-toggle-label .top-bar, .force-mobile-nav .mobile-nav-toggle-label .middle-bar, .force-mobile-nav .mobile-nav-toggle-label .bottom-bar {
-width: 28px;
-height: 3px;
-}
-#sidecarNav {
-width: 26% !important;
-}
+
 #preFooter {
 padding: 2em 16.8em !important;
 }
