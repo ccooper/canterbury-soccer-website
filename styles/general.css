@@ -744,6 +744,13 @@ margin-right: 1em !important;
 }
 }
 
+/* 1100 PX */
+@media only screen and (min-width: 68em) {
+  #preFooter {
+padding: 0em 11em 0 16.3em !important;
+}
+}
+
 /* 1280 PX */
 @media only screen and (min-width: 80em) {
   #header h1 {
