@@ -290,6 +290,11 @@ display: block;
   margin-top: 0;
 }
 
+.pre-footer-inner a, .pre-footer-inner a:visited {
+color: auto!important;
+border-bottom: auto!important;
+}
+
 /* TWITTER */
 .twitter {
 text-align: left;
