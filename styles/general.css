@@ -235,9 +235,10 @@ border: solid 2px #3AC0DF;
 border-radius: 5px;
 padding: 0.5em 1em;
 font-weight: 600;
-margin-right: 2em;
-font-size: 0.45em!important;
-transition: all 0.55s ease 0;
+font-size: .5em !important;
+transition: all .55s ease 0;
+display: block;
+text-align: center;
 }
 
 .html-block a:not(.sqs-block-button-element):hover {
