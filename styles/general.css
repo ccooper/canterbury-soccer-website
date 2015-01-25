@@ -682,6 +682,11 @@ padding: 0 0 1em!important;
 .html-block a:not(.sqs-block-button-element) {
 font-size: 0.7em !important;
 }
+
+/*EVENTS*/
+.eventlist--upcoming {
+padding: 0em 5em 0 9em !important;
+}
 }
 
 /* 768 PX */
