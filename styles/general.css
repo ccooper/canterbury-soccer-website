@@ -786,6 +786,16 @@ padding: 2.8% 0 2.8% 2%;
 display: inline-block;
 }
 
+.yui3-squarespacecalendar .yui3-calendar-grid {
+width: 65% !important;
+margin-left: 11.4em;
+}
+
+.yui3-squarespacecalendar .yui3-calendar-header {
+margin: 0 11.4em 1em !important;
+width: 65%;
+}
+
 .social-icons {
 padding: 13% 0;
 }
