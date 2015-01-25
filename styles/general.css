@@ -222,6 +222,10 @@ min-width: 100% !important;
 min-width: 100%!important;
 }
 
+.yui3-squarespacecalendar .compact-layout .yui3-calendar-day.has-event {
+background: rgba(110,110,110,0.5);
+}
+
 /* PRE FOOTER */
 .pre-footer-content a {
  margin-right: 0!important;
