@@ -664,6 +664,14 @@ padding: 0 2.5em !important;
 .force-mobile-nav .mobile-nav-toggle-label {
 right: 16px !important;
 }
+
+.yui3-squarespacecalendar .yui3-calendar-grid {
+margin-left: 7.4em;
+}
+
+.yui3-squarespacecalendar .yui3-calendar-header {
+margin: 0 7.4em 1em !important;
+}
 }
 
 /* 800 PX */
