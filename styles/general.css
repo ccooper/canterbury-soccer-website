@@ -253,6 +253,15 @@ font-family: "Lato", sans-serif;
 text-transform: uppercase;
 }
 
+/* EVENTS */
+.eventlist-title {
+margin: 0 !important;
+}
+
+.eventlist-meta {
+margin: 0!important;
+}
+
 /* PRE FOOTER */
 .pre-footer-content a {
  margin-right: 0!important;
