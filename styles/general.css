@@ -858,6 +858,10 @@ display: inline-block !important;
 .pre-footer-content>a:first-of-type {
 margin-right: 1em !important;
 }
+
+.html-block a:not(.sqs-block-button-element) {
+font-size: .75em !important;
+}
 }
 
 /* 1100 PX */
