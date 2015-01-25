@@ -776,8 +776,8 @@ padding: 1em 17em 0 21.3em !important;
 font-size: 1.2em !important;
 padding: 0em!important;
 }
-  .social-icons {
-padding: 2.5em 1em 0;
+.social-icons {
+padding: 2.6em 1em;
 }
 #headerNav nav a, #sidecarNav nav a, #headerNav nav a:visited, #sidecarNav nav a:visited, #headerNav nav label, #sidecarNav nav label {
 font-size: 0.85em;
@@ -794,7 +794,7 @@ padding: 0.5em 0!important;
 font-size: 0.85em!important;
 }
 .header-nav {
-padding: 2em 1em 0!important;
+padding: 3.5% 0 3.5% 2%;
 }
 .mobile-nav-toggle-label {
 display: none!important;
