@@ -734,6 +734,10 @@ padding: 1em 2.7em;
 .twitter-block {
 padding: 0 2.7em !important;
 }
+
+.html-block a:not(.sqs-block-button-element) {
+font-size: 0.8em !important;
+}
 }
 
 /* 960 PX */
