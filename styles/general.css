@@ -786,6 +786,10 @@ padding: 2.8% 0 2.8% 2%;
 display: inline-block;
 }
 
+.tweet-text a {
+font-size: 1em;
+}
+
 .yui3-squarespacecalendar .yui3-calendar-grid {
 width: 65% !important;
 margin-left: 11.4em;
