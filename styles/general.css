@@ -213,6 +213,15 @@ padding: 19% 0.5em 0 !important;
 line-height: initial !important;
 }
 
+/* SCHEDULE CALENDAR */
+.yui3-squarespacecalendar .compact-layout .yui3-calendar-grid {
+min-width: 100% !important;
+}
+
+.yui3-squarespacecalendar .yui3-calendar-pane {
+width: 70%;
+}
+
 /* PRE FOOTER */
 .pre-footer-content a {
  margin-right: 0!important;
