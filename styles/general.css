@@ -669,6 +669,10 @@ font-size: 0.65em!important;
 #secondaryNavWrapper {
 padding: 0 0 1em!important;
 }
+
+.html-block a:not(.sqs-block-button-element) {
+font-size: 0.7em !important;
+}
 }
 
 /* 768 PX */
