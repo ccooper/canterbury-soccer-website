@@ -733,6 +733,14 @@ padding: 13% 0;
 #preFooter {
 padding: 1em 10em 0 14.5em !important;
 }
+
+.pre-footer-content a {
+display: inline-block !important;
+}
+
+.pre-footer-content>a:first-of-type {
+margin-right: 1em !important;
+}
 }
 
 /* 1280 PX */
