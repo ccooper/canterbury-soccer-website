@@ -838,3 +838,17 @@ padding: 1em 25em 0 30.2em !important;
 }
 }
 
+/* 1680 PX */
+@media only screen and (min-width: 105em) {
+  #header h1 {
+font-size: 1.5em !important;
+}
+
+.social-icons {
+padding: 3.2em 1em;
+}
+
+#preFooter {
+padding: 1em 27em 0 32.4em !important;
+}
+}
