@@ -818,6 +818,15 @@ margin-right: 1em !important;
   #preFooter {
 padding: 1em 11em 0 16.3em !important;
 }
+
+.yui3-squarespacecalendar .yui3-calendar-grid {
+width: 65% !important;
+margin-left: 11.9em;
+}
+.yui3-squarespacecalendar .yui3-calendar-header {
+margin: 0 11.9em 1em !important;
+width: 65%;
+}
 }
 
 /* 1280 PX */
