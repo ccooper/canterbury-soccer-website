@@ -291,8 +291,8 @@ display: block;
 }
 
 .pre-footer-inner a, .pre-footer-inner a:visited {
-color: auto!important;
-border-bottom: auto!important;
+color: #3AC0DF!important;
+border-bottom-color: #3AC0DF!important;
 }
 
 /* TWITTER */
