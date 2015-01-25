@@ -687,7 +687,8 @@ transition: transform 0s 0s ease-in-out;
 
 .force-mobile-nav #header #headerNav {
 display: block!important;
-width: 101%;
+width: 142%;
+overflow: hidden;
 }
 
 #header #mainNavWrapper {
