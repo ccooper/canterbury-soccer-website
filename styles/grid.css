@@ -144,7 +144,7 @@ width: 7%;
   }
 }
 
-@media only screen and (min-width: 64em) and (max-width: 85em) {
+@media only screen and (min-width: 65em) and (max-width: 85em) {
   .unit-l-hidden {
     display: none;
     visibility: hidden;
