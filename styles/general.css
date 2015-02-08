@@ -779,6 +779,11 @@ padding: 5.4% .5em !important;
 .force-mobile-nav .mobile-nav-toggle-label {
 right: 22px !important;
 }
+
+.social-icons {
+padding: 7.5% 1.5em 7.5% 0em;
+}
+
 #preFooter {
 padding: 2em 9em !important;
 }
