@@ -222,9 +222,9 @@ line-height: initial !important;
 .acc-btn { 
   width:100%;
   margin:0 auto;
-  padding:20px 25px;
+  padding:1em;
   cursor:pointer;
-  border-bottom:1px solid #fbb03b;
+  border-bottom:1px solid #646469;
 }
 
 .acc-content {
