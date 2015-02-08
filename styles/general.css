@@ -216,7 +216,6 @@ line-height: initial !important;
 /* SCHEDULE ACCORDION */
  .acc-container {
   width:90%;
-  margin:30px auto 0 auto;
   -webkit-border-radius:8px;
   -moz-border-radius:8px;
   -o-border-radius:8px;
