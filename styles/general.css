@@ -232,11 +232,10 @@ line-height: initial !important;
   width:100%;
   margin:0 auto;
   overflow:hidden;
-  background:#2C3E50;
 }
 
 .acc-content-inner {
-  padding:30px;
+  padding: 1em;
 }
 
 .open {
