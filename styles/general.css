@@ -238,6 +238,10 @@ line-height: initial !important;
   padding: 1em;
 }
 
+.acc-content-inner div {
+padding: 0 0.5em;
+}
+
 .open {
   height: auto;
 }
