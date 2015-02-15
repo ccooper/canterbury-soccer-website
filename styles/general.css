@@ -304,7 +304,7 @@ margin: 0!important;
 padding-bottom: 0;
 }
 
-.sqs-block-summary-v2 a, .sqs-block-summary-v2 a:link, .sqs-block-summary-v2 a:visited {
+.sqs-block-summary-v2 a, .sqs-block-summary-v2 a:hover, .sqs-block-summary-v2 a:visited {
 color: #3AC0DF!important;
 }
 
