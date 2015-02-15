@@ -19,6 +19,10 @@
   display: none;
 }
 
+#content {
+	padding: 2em 2em 0!important;
+}
+
 .h1-visibility {
   display: none!important;
 }
