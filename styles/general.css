@@ -70,6 +70,11 @@ height: 0;
 padding: 0;
 }
 
+#modal #content {
+background: #fff;
+padding: 2em!important;
+}
+
 /* Header & Mobile Nav */
 #header {
   background-color: #FFF!important;
