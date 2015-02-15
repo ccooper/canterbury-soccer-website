@@ -8,9 +8,94 @@
     {squarespace-headers}
     <script>/* Must be below {squarespace-headers} */(function(){var e='ontouchstart'in window||navigator.msMaxTouchPoints;var t=document.documentElement;if(!e&&t){t.className=t.className.replace(/touch-styles/,'')}})()
     </script>
+    <script>
+			var modal = (function(){
+				var 
+				method = {},
+				$overlay,
+				$modal,
+				$content,
+				$close;
+
+				// Center the modal in the viewport
+				method.center = function () {
+					var top, left;
+
+					top = Math.max($(window).height() - $modal.outerHeight(), 0) / 2;
+					left = Math.max($(window).width() - $modal.outerWidth(), 0) / 2;
+
+					$modal.css({
+						top:top + $(window).scrollTop(), 
+						left:left + $(window).scrollLeft()
+					});
+				};
+
+				// Open the modal
+				method.open = function (settings) {
+					$content.empty().append(settings.content);
+
+					$modal.css({
+						width: settings.width || 'auto', 
+						height: settings.height || 'auto'
+					});
+
+					method.center();
+					$(window).bind('resize.modal', method.center);
+					$modal.show();
+					$overlay.show();
+				};
+
+				// Close the modal
+				method.close = function () {
+					$modal.hide();
+					$overlay.hide();
+					$content.empty();
+					$(window).unbind('resize.modal');
+				};
+
+				// Generate the HTML and add it to the document
+				$overlay = $('<div id="overlay"></div>');
+				$modal = $('<div id="modal"></div>');
+				$content = $('<div id="content"></div>');
+				$close = $('<a id="close" href="#">close</a>');
+
+				$modal.hide();
+				$overlay.hide();
+				$modal.append($content, $close);
+
+				$(document).ready(function(){
+					$('body').append($overlay, $modal);						
+				});
+
+				$close.click(function(e){
+					e.preventDefault();
+					method.close();
+				});
+
+				return method;
+			}());
+
+			// Wait until the DOM has loaded before querying the document
+			$(document).ready(function(){
+
+				$.get('ajax.html', function(data){
+					modal.open({content: data});
+				});
+
+				$('a#howdy').click(function(e){
+					modal.open({content: "Hows it going?"});
+					e.preventDefault();
+				});
+			});
+		</script>
+
   </head>
   <body id="{squarespace.page-id}" class="{squarespace.page-classes}{.if item}{.section item}{.if productType}{.or}{.main-image?} has-banner-image item-main-image{.end}{.end}{.end}{.or}{.section collection}{.collectionTypeNameEquals? index}{.section collections}{.section 0}{.main-image?} has-banner-image index-page{.end}{.end}{.end}{.or}{.main-image?} has-banner-image general-page{.end}{.end}{.end}{.end}">
-
+  	<div id='overlay'></div>
+<div id='modal'>
+    <div id='content'>No JavaScript Yet!</div>
+    <a href='#' id='close'>close</a>
+</div>
     <input type="checkbox" name="mobile-nav-toggle" id="mobileNavToggle" class="mobile-nav-toggle-box hidden" /><a href="#" class="body-overlay"></a>
     <div id="sidecarNav">
       <squarespace:navigation navigationId="mainNav" template="mobile-navigation" />
@@ -340,87 +425,5 @@
     <squarespace:script src="sticky.js" combo="true" />
     {.if authenticatedAccount}<squarespace:script src="authenticated.js" combo="false" />{.end}
     {squarespace-footers}
-
-    <script type="text/javascript">
-    var modal = (function(){
-    var 
-    method = {},
-    $overlay,
-    $modal,
-    $content,
-    $close;
-
-    // Append the HTML
-
-    // Center the modal in the viewport
-    method.center = function () {};
-
-    // Open the modal
-    method.open = function (settings) {};
-
-    // Close the modal
-    method.close = function () {};
-
-    return method;
-}());
-    $overlay = $('<div id="overlay"></div>');
-$modal = $('<div id="modal"></div>');
-$content = $('<div id="content"></div>');
-$close = $('<a id="close" href="#">close</a>');
-
-$modal.hide();
-$overlay.hide();
-$modal.append($content, $close);
-
-$(document).ready(function(){
-    $('body').append($overlay, $modal);
-});
-method.center = function () {
-    var top, left;
-
-    top = Math.max($(window).height() - $modal.outerHeight(), 0) / 2;
-    left = Math.max($(window).width() - $modal.outerWidth(), 0) / 2;
-
-    $modal.css({
-        top:top + $(window).scrollTop(), 
-        left:left + $(window).scrollLeft()
-    });
-};
-method.open = function (settings) {
-    $content.empty().append(settings.content);
-
-    $modal.css({
-        width: settings.width || 'auto', 
-        height: settings.height || 'auto'
-    })
-
-    method.center();
-
-    $(window).bind('resize.modal', method.center);
-
-    $modal.show();
-    $overlay.show();
-};
-method.close = function () {
-    $modal.hide();
-    $overlay.hide();
-    $content.empty();
-    $(window).unbind('resize.modal');
-};
-$close.click(function(e){
-    e.preventDefault();
-    method.close();
-});
-modal.open({content: "Howdy"});
-
-modal.open({content: "<p>Howdy</p>"});
-
-modal.open({content: $("<p>Howdy</p>"), width: "500px", height: "200px"});
-
-// Ajax
-$.get('ajax.html', function(data){
-    modal.open({content: data});
-});
-    </script>
   </body>
 </html>
