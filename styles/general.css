@@ -638,6 +638,10 @@ transform: translatex(-215px) translatez(0);
 #header h1 {
 font-size: .8em !important;
 }
+.logo-crest {
+width: 50%!important;
+padding: 0em 1em;
+}
 }
 
 /* 480 PX */
