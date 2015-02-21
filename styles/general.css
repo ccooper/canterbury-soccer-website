@@ -1165,6 +1165,9 @@ padding: 3em 1em;
 #preFooter {
 padding: 1em 25em 0 30.2em !important;
 }
+#modal #content {
+padding: 4.5em !important;
+}
 }
 
 /* 1680 PX */
