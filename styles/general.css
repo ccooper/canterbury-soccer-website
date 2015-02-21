@@ -1124,6 +1124,10 @@ margin-left: 12em;
 .yui3-squarespacecalendar .yui3-calendar-header {
 margin: 0 12em 1em !important;
 }
+
+#modal #content {
+padding: 3em !important;
+}
 }
 
 /* 1440 PX */
