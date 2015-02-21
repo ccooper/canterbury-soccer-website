@@ -811,6 +811,15 @@ font-size: 0.7em !important;
 .eventlist--upcoming, .eventlist--past {
 padding: 0em 5em 0 9em !important;
 }
+
+.logo-crest {
+width: 30% !important;
+padding: .8em;
+}
+
+#content {
+padding: 4em!important;
+}
 }
 
 /* 768 PX */
