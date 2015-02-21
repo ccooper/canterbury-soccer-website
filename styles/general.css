@@ -524,6 +524,15 @@ padding-top: 1.5em;
 .html-block a:not(.sqs-block-button-element) {
 font-size: 1em !important;
 }
+
+#modal {
+top: 20%!important;
+}
+
+.logo-crest {
+width: 50%;
+padding: 1em 1em 0;
+}
 }
 
 /* 360 px */
