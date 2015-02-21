@@ -1023,6 +1023,15 @@ font-size: .65em !important;
 .eventlist--upcoming, .eventlist--past {
 padding: 0em 8em 0 13em !important;
 }
+
+#modal {
+width: 40%!important;
+left: 30%!important;
+}
+
+#modal #content {
+padding: 2em !important;
+}
 }
 
 /* 1100 PX */
