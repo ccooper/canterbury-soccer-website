@@ -683,6 +683,10 @@ font-size: .75em !important;
 margin: 0 1em!important;
 display: inline-block!important;
 }
+
+#modal #content {
+padding: 2em 2em 0 !important;
+}
 }
 
 /* 600 PX */
