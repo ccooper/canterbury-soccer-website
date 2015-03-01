@@ -1027,6 +1027,7 @@ padding: 0em 8em 0 13em !important;
 #modal {
 width: 40%!important;
 left: 30%!important;
+top: 30% !important;
 }
 
 #modal #content {
