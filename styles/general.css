@@ -218,6 +218,10 @@ transition: transform 0s 0s ease-in-out;
 display: none;
 }
 
+#block-yui_3_17_2_2_1423620543496_77711 {
+padding: 0;
+}
+
 /* H1, H2, etc */
 #header h1 {
 text-transform: uppercase!important;
