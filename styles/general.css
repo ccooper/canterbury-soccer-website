@@ -402,6 +402,11 @@ font-family: 'Lato', sans-serif;
 text-transform: uppercase;
 }
 
+/* FACEBOOK */
+#block-yui_3_17_2_5_1424026798026_6004 {
+  padding: 20px 60px!important;
+}
+
 /* FOOTER */
 #footer h3 {
   font-weight: 600!important;
