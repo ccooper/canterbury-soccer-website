@@ -920,8 +920,8 @@ font-size: 1em !important;
 
 /* 1024 PX */
 @media only screen and (min-width: 64em) {
-  #block-yui_3_17_2_7_1427157342842_24056 {
-  width: 40px;
+.sqs-col-9 .sqs-col-1 {
+  width: 40px!important;
 }
   #header h1 {
 font-size: 1em !important;
