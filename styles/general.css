@@ -792,10 +792,6 @@ display: block!important;
 margin-bottom: 1em !important;
 }
 
-.twitter-block {
-padding: 0 2em !important;
-}
-
 #block-yui_3_17_2_2_1420920523009_10202 {
 padding: 1em 2em;
 }
@@ -848,9 +844,7 @@ font-size: .8em !important;
 #block-yui_3_17_2_2_1420920523009_10202 {
 padding: 1em 2.5em;
 }
-.twitter-block {
-padding: 0 2.5em !important;
-}
+
 .force-mobile-nav .mobile-nav-toggle-label {
 right: 16px !important;
 }
