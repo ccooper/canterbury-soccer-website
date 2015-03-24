@@ -375,6 +375,9 @@ font-size: 0.95em;
 color: #000!important;
 }
 
+.twitter-block {
+padding: 0 1em!important;
+}
 
 .twitter-block .tweet .tweet-text-wrapper {
 margin-left: 0px!important;
@@ -398,7 +401,6 @@ overflow: hidden;
 font-family: 'Lato', sans-serif;
 text-transform: uppercase;
 }
-
 
 /* FOOTER */
 #footer h3 {
@@ -790,6 +792,10 @@ display: block!important;
 margin-bottom: 1em !important;
 }
 
+.twitter-block {
+padding: 0 2em !important;
+}
+
 #block-yui_3_17_2_2_1420920523009_10202 {
 padding: 1em 2em;
 }
@@ -842,6 +848,9 @@ font-size: .8em !important;
 #block-yui_3_17_2_2_1420920523009_10202 {
 padding: 1em 2.5em;
 }
+.twitter-block {
+padding: 0 2.5em !important;
+}
 .force-mobile-nav .mobile-nav-toggle-label {
 right: 16px !important;
 }
@@ -873,6 +882,13 @@ font-size: .85em !important;
 #block-yui_3_17_2_2_1420920523009_10202 {
 padding: 1em 2.7em;
 }
+.twitter-block {
+padding: 0 60px!important;
+}
+/* FACEBOOK */
+#block-yui_3_17_2_5_1424026798026_6004 {
+  padding: 20px 60px!important;
+}
 
 .html-block a:not(.sqs-block-button-element) {
 font-size: 0.8em !important;
@@ -880,14 +896,6 @@ font-size: 0.8em !important;
 
 .eventlist--upcoming, .eventlist--past {
 padding: 0em 6em 0 9em !important;
-}
-
-.twitter-block {
-padding: 0 60px!important;
-}
-/* FACEBOOK */
-#block-yui_3_17_2_5_1424026798026_6004 {
-  padding: 20px 60px!important;
 }
 }
 
