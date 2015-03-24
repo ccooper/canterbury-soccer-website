@@ -1016,6 +1016,7 @@ display: inline-block !important;
 
 .pre-footer-content>a:first-of-type {
 margin-right: 1em !important;
+margin-bottom: 0!important;
 }
 
 .html-block a:not(.sqs-block-button-element) {
