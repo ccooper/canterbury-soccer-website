@@ -375,9 +375,6 @@ font-size: 0.95em;
 color: #000!important;
 }
 
-.twitter-block {
-padding: 0 60px!important;
-}
 
 .twitter-block .tweet .tweet-text-wrapper {
 margin-left: 0px!important;
@@ -402,10 +399,6 @@ font-family: 'Lato', sans-serif;
 text-transform: uppercase;
 }
 
-/* FACEBOOK */
-#block-yui_3_17_2_5_1424026798026_6004 {
-  padding: 20px 60px!important;
-}
 
 /* FOOTER */
 #footer h3 {
@@ -887,6 +880,14 @@ font-size: 0.8em !important;
 
 .eventlist--upcoming, .eventlist--past {
 padding: 0em 6em 0 9em !important;
+}
+
+.twitter-block {
+padding: 0 60px!important;
+}
+/* FACEBOOK */
+#block-yui_3_17_2_5_1424026798026_6004 {
+  padding: 20px 60px!important;
 }
 }
 
