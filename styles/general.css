@@ -921,7 +921,7 @@ font-size: 1em !important;
 }
 .line {
   position: relative;
-  padding: 0 60px;
+  padding: 0 60px!important;
 }
 }
 
