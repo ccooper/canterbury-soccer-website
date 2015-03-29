@@ -1209,6 +1209,10 @@ padding: 1em 27em 0 32.4em !important;
 font-size: 2em !important;
 }
 
+.header-nav {
+  padding: 4% 0 4% 2%;
+}
+
 #headerNav nav a {
 font-size: 1em !important;
 }
