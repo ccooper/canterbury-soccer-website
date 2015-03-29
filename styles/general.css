@@ -919,6 +919,10 @@ padding: 2em 9em !important;
 .pre-footer-content a {
 font-size: 1em !important;
 }
+.line {
+  position: relative;
+  padding: 0 60px;
+}
 }
 
 /* 1024 PX */
