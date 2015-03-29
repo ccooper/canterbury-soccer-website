@@ -1204,7 +1204,7 @@ padding: 1em 27em 0 32.4em !important;
 }
 
 /* 1920 PX */
-@media only screen and (min-width: 120em) {
+@media only screen and (min-width: 119em) {
 #header h1 {
 font-size: 2em !important;
 }
