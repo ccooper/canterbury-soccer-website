@@ -1058,6 +1058,9 @@ margin-left: 11.9em;
 margin: 0 11.9em 1em !important;
 width: 65%;
 }
+.header-nav {
+padding: 3% 0 3% 2%;
+}
 }
 
 /* 1280 PX */
