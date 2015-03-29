@@ -109,6 +109,9 @@ width: 10%;
   .unit-m-1-9 {
     width: 90%;
   }
+  .unit-m-4-5 {
+    width: 45%;
+  }
 }
 
 @media only screen and (min-width: 60em) and (max-width: 64em) {
