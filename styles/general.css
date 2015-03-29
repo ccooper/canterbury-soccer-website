@@ -579,7 +579,7 @@ font-size: 1em !important;
 }
 
 #modal {
-top: 20%!important;
+top: 50%!important;
 }
 
 .logo-crest {
@@ -609,6 +609,9 @@ font-size: 0.7em!important;
 }
 .pre-footer-content a {
 font-size: 1em !important;
+}
+#modal {
+  top: 20% !important;
 }
 }
 
