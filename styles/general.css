@@ -827,6 +827,10 @@ font-size: 1.1em !important;
   padding: 8% 2.5em 7% .5em !important;
 }
 
+.social-icons {
+  padding: 6% 0;
+}
+
 #sidecarNav {
 width: 42.2% !important;
 }
