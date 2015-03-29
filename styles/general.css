@@ -824,6 +824,7 @@ padding: 4em!important;
 @media only screen and (min-width: 48em) {
   #header h1 {
 font-size: 1.1em !important;
+  padding: 8% 2.5em 7% .5em !important;
 }
 
 #sidecarNav {
