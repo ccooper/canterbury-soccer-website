@@ -1180,6 +1180,9 @@ padding: 1em 25em 0 30.2em !important;
 #modal #content {
 padding: 4.5em !important;
 }
+.header-nav {
+  padding: 4% 0 4% 2%;
+}
 }
 
 /* 1680 PX */
