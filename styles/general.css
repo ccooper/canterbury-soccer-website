@@ -697,10 +697,6 @@ padding: 2em 2em 0 !important;
 
 /* 600 PX */
 @media only screen and (min-width: 37em) {
-.flex-logo {
-width: 80%;
-}
-
 #header h1 {
 font-size: 1em !important;
 padding: 0.7em 0!important;
